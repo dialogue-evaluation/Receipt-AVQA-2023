@@ -1,0 +1,7 @@
+Dine In Total 54,000
+Cash Rp. 100,000
+Change 46,000
+Kupon 13
+49,091
+Subtotal 49,091
+PB1 (10%) 4,909

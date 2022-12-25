@@ -1,0 +1,13 @@
+Soto Daging
+1
+36.364
+Nasi Putih
+1
+6.363
+Teh Tawar Hangat
+1
+3.636
+Subtotal 46.363
+Pb1 (10%) 4.636
+Pembulatan 1
+Total 51.000

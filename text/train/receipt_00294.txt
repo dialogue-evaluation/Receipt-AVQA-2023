@@ -1,0 +1,23 @@
+1
+Dumpling
+9.000
+1
+Jamur Kuping
+8.000
+1
+Caisim Kecil
+7.000
+2
+Lapchiong
+24.000
+12000
+2
+Otak-otak Singapore
+22.000
+11000
+1
+Bihun (MLY)
+8.000
+Subtotal 78.000
+TOTAL 78.000
+Go-Pay static QR 78.000

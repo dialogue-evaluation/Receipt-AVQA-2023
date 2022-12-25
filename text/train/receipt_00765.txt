@@ -1,0 +1,9 @@
+Total 25.000
+CASH 25.000
+Kembalian 0
+1
+Viet Milk Coffee
+25.000
++Ice
++M
+Subtotal 25.000

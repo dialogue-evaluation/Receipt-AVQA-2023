@@ -1,0 +1,8 @@
+SubTotal: 21,818
+PB1: 2,182
+Total: 24,000
+cash: 25,000
+Change: 1,000
+1
+Smoke Beef + Aqua
+21,818

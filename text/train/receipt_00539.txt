@@ -1,0 +1,15 @@
+1
+Combo 4
+51.948
+1
+Crispy Mushroom
+45.000
+1
+Equil Natural
+30.000
+SUB-TOTAL 126.948
+Service Charge 6.347
+Gov. Tax 13.330
+TOTAL 146.625
+VISA 146.625
+CHANGED 0

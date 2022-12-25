@@ -1,0 +1,10 @@
+1
+Full Box
+31,818
+1
+SB 1 HC
+27,727
+Sub Total 59,545
+P.Rest 10 % 5,955
+Total 65,500
+Cash 65,500

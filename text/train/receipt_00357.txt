@@ -1,0 +1,26 @@
+1
+Nats Bitter Choco cake
+40.000
+1
+Es Kopi Susu Pandan
+35.000
+1
+Extra Whipping Cream
+10.000
+1
+Iced Coffee Latte
+40.000
+1
+Iced Sugar Cane
+28.000
+1
+Sparkling Mango Mojito
+65.000
+1
+Iced Coffee
+28.000
+SUB-TOTAL 246.000
+Discount -36.900 VIP 15%
+Service Charge 10.455
+PB1 25.646
+TOTAL 245.201

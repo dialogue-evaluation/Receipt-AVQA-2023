@@ -1,0 +1,9 @@
+1
+Viet Latte
+19.000
++S
++Ice
+Subtotal 19.000
+Total 19.000
+CASH 50.000
+Kembalian 31.000

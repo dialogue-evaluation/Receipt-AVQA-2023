@@ -1,0 +1,11 @@
+1
+Nasi Goreng
+29.091
+1
+Nasi Goreng Ayam
+23,636
+Subtotal 52.727
+PB 1 5.273
+Total 58.000
+DEBIT 1 58.000
+2

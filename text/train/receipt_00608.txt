@@ -1,0 +1,9 @@
+1
+DAGING SAPI
+75.000
++B. TELOR BESAR
+Subtotal 75.000
+Delivery 0
+Total 75.000
+GOPAY 75.000
+Kembalian 0

@@ -1,0 +1,17 @@
+56,000
+Tatal. 56,000
+Pay Cash 60,000
+Change : 4,000
+ITEMS: 3
+1
+BBQ Chicken
+41,000
+1
+- Pedas
+0
+1
+Mineral Water 600 ml
+8,000
+1
+Teh Pucuk 350 ml
+7,000

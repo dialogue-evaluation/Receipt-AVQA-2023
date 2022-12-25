@@ -1,0 +1,15 @@
+DUE 55,500
+BCA: 55,500
+3 ITEM
+QTY 3 PCS TOTAL
+1
+Pillow Choco
+18,000
+1
+Pillow Cheese
+18,000
+1
+Pillow Kombi
+19,500
+SUBTOTAL 55,500
+ROUNDING 0

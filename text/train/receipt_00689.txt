@@ -1,0 +1,15 @@
+DADA DADA
+1
+22.000
+22.000
+ateh Tawar ateh Tawar
+1
+2.000
+2.000
+SUBTOTAL 24.000
+DISCOUNT -
+TAX 0
+ROUNDING 0
+TOTAL 24.000
+Pembayaran (Cash) 50.000
+Change 26.000

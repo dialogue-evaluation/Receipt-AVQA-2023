@@ -1,0 +1,19 @@
+CreditCard
+Total 113,000.00
+Payment 113,000.00
+Change 0.00
+4 item(s)
+SubTotal 113,000.00
+Discount 0.00
+1
+Berry Many-Low (P)
+37,500.00
+1
+500 days of summer (P)
+37,500.00
+1
+sun kissed (P)
+37,500.00
+1
+PLASTIC BAG
+500.00

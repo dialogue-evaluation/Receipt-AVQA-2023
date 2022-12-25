@@ -1,0 +1,9 @@
+Dasar Pengenaan Pajak 20,000
+1
+KFC Winger HC
+20,000
+Sub Total 20,000
+P.Rest 10 % 2,000
+Total 22,000
+Cash 22,000
+1 Items,

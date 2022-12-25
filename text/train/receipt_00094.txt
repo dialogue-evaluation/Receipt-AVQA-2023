@@ -1,0 +1,12 @@
+4002-Chocolate Orange Peel
+19.000
+x2
+38.000
+6001-Plastic Bag Small
+0
+x1
+0
+Total. 38.000
+Cash Tendered: 50.000
+Change: 12.000
+Total Item: 3

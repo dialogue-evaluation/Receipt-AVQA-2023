@@ -1,0 +1,15 @@
+5001-Corn Flakes Cookies
+56.000
+x1
+56.000
+4003-Blueberry Fuji
+40.000
+x1
+40.000
+6002-Plastic Bag Medium
+0
+x1
+0
+Total. 96.000
+Debet Card 96.000
+Total Item: 3

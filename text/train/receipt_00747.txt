@@ -1,0 +1,7 @@
+Lemon
+1
+10.000
+Subtotal 10.000
+Total 10.000
+CASH 10.000
+Change 0

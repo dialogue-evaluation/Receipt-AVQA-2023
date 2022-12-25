@@ -1,0 +1,12 @@
+Sub Total 28,636
+P.Rest 10 % 2,864
+Total 31,500
+Cash 40,000
+Kembali 8,500
+2 Items,
+1
+Chicken HCC, 1Pcs
+15,000
+1
+Colonel Burger
+13,636

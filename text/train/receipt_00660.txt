@@ -1,0 +1,21 @@
+LP5201
+BL1 M LW
+1
+70,000
+70,000
+Offer disc 45 % -31,500
+LP5978
+WH3 M LW
+1
+70,000
+70,000
+Offer disc 45 % -31,500
+LP5978
+RE5 M LW
+1
+70,000
+70,000
+Offer disc 45 % -31,500
+Total Discount 94,500
+Grand Total 115,500
+Card payment Debit 115,500

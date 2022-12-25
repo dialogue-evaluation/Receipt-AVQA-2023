@@ -1,0 +1,11 @@
+1
+PECEL MADIUN
+39.500
+1
+AIR MINERAL
+10.000
+Subtotal 49.500
+Servi Charge 57 2.475
+Pajak Rest 10% 5.198
+Total 57.173
+2

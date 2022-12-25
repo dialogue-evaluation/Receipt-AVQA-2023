@@ -1,0 +1,20 @@
+x
+@
+x
+@
+Rp
+Rp
+Rp
+Rp
+Arem Arem
+2
+12.000
+24.000
+Kroket
+1
+12.000
+12.000
+Subtotal 36.000
+Tax (10.0%) 3.600
+Total 39.600
+Other 39.600

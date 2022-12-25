@@ -1,0 +1,10 @@
+Premier Mineral Water (L t1)
+1
+8.000
+Lychee Tea
+1
+15.000
+Subtotal 23.000
+TOTAL 23.000
+Cash 32.000
+Change Due 9.000

@@ -1,0 +1,26 @@
+1
+Mineral Water
+9.000
+1
+Nasi Goreng Buntut
+69.500
+1
+NASI LIWET
+49.000
+1
+Ayam Penyet Sambal Glede
+44.000
+1
+Mendoan
+31.000
+2
+Teh Tawar Panas
+22.000
+1
+Teh Tubruk Jahe
+24.500
+Subtotal 249.000
+Servi Charge 5% 12.450
+Pajak Rest 10% 26.145
+287.595
+8 Total

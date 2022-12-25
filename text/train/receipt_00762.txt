@@ -1,0 +1,8 @@
+1
+Spicy Tuna
+16,363
+SubTotal: 16,363
+PB1: 1,636
+Total: 17,999
+cash: 50,000
+Change: 32,001

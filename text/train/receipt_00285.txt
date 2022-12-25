@@ -1,0 +1,12 @@
+1
+Popcorn Salt (M)
+40.000
+1
+Mineral Water (S)
+10,000
+1
+Fanta Stwbry (L)
+25.000
+TOTAL 75.000
+CASH 100,000
+CHANGED 25,000

@@ -1,0 +1,7 @@
+1
+Banana Cho + NuTea
+20,000
+SubTotal: 20,000
+PB1: 2,000
+Total: 22,000
+cash: 22.000

@@ -1,0 +1,8 @@
+1
+Nutella Cheese
+27,272
+SubTotal: 27,272
+PB1: 2,727
+Total: 29,999
+cash: 50,000
+Change: 20,001

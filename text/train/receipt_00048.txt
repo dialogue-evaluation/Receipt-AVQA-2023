@@ -1,0 +1,28 @@
+Rp
+Rp
+Rp
+Rp
+Rp
+Rp
+Jamur Crispy
+2
+13.500
+27.000
+Nasi Putih
+2
+7.000
+14.000
+Sambel Kecap
+2
+4.500
+9.000
+Es Teh
+2
+7.500
+15.000
+Subtotal 65.000
+PB1 ( 10%) 6.500
+SC (3%) 1.950
+Total 73.450
+Cash 100.000
+Change 26.550

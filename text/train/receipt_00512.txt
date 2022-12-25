@@ -1,0 +1,9 @@
+1
+Gado Gado
+36,000
+1
+Nasi Putih GG
+7,000
+SUBTOTAL 43,000
+TOTAL 43,000
+CASH 43,000

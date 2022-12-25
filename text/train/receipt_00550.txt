@@ -1,0 +1,26 @@
+1
+Six
+125,000
+2
+CHOCOLATE BANANA
+---
+1
+CHOCOLATE CHOCOLATE
+---
+1
+RED VELVET
+---
+1
+MOCHA
+---
+1
+LIME & STRAWBERRIES
+---
+1
+Box of 6
+---
+1
+PL. Bag Box 6
+---
+TOTAL 125,000
+VISA 125,000

@@ -1,0 +1,10 @@
+SubTotal: 55,454
+PB1: 5,545
+Total: 60,999
+Debit Card: 60,999
+1
+Nutella Cheese
+27,272
+1
+Toblerone BanCheese
+28,182

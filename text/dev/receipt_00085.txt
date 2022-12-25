@@ -1,0 +1,8 @@
+1
+Peanut & Cheese
+13,636
+SubTotal: 13,636
+PB1: 1,364
+Total: 15,000
+cash: 20,000
+Change: 5,000

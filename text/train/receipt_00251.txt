@@ -1,0 +1,8 @@
+1
+SpcPrice Caudburry
+17,727
+Total: 19,500
+Cash: 100,000
+Change: 80,500
+SubTotal: 17,727
+PB1: 1,773

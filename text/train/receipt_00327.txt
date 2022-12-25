@@ -1,0 +1,8 @@
+1
+MIE UP BSR C
+1
+36,000
+INC(+) 3,600
+Total 39,600
+Payment 0
+Payment#Less 39,600

@@ -1,0 +1,12 @@
+TOTAL 70.000
+70.000 CASH
+0 CHANGED
+1
+Coke (L)
+25.000
+1
+Extra Jelly Lychee
+5.000
+1
+Popcorn Salt (M)
+40.000

@@ -1,0 +1,12 @@
+TOTAL 55.000
+CASH 55.000
+CHANGED 0
+Coke (L)
+1
+25.000
+XXI Java Tea Spc
+1
+25.000
+Extra Jelly Lychee
+1
+5,000

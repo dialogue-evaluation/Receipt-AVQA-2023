@@ -1,0 +1,21 @@
+TOTAL 261,333
+Coupon 100,000
+BCA Card 161,333
+SUBTOTAL 221,000
+Service 16,575
+PB1 23,758
+1
+Lasagna
+45,000
+1
+Spaghetti ChickPesto
+55,000
+1
+BangBang Chick Wings
+49,000
+1
+Iced Cappuccino
+33,000
+1
+Gypsy Gelato Ice Tea
+39,000

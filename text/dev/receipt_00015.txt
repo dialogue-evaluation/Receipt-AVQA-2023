@@ -1,0 +1,18 @@
+Rp
+Rp
+Rp
+Rp
+Rp
+Arem Arem
+2
+12.000
+24.000
+Pepenero Pastel
+2
+15.000
+30.000
+Subtotal 54.000
+Tax (10.0%) 5.400
+Total 59.400
+Cash 100.000
+Change 40.600

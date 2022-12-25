@@ -1,0 +1,9 @@
+1
+golden
+49,000.0
+49,000.0
+Subtotal: Rp 45.545.45
+Tax 10.00%: Rp 4,454.55
+TOTAL: Rp 49,000.00
+Paid: Rp 50,000.00
+Change: Rp 1,000.00

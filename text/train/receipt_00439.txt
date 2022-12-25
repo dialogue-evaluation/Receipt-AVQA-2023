@@ -1,0 +1,30 @@
+4726470021468111 20.0000 % BCA DISC 20% 129000-
+1
+DarkBeer0.5L
+94000
+1
+Weiss 0.3 L
+84000
+2
+130000
+Grill Sea Bass
+260000
+1
+LgrBeer0.3L
+79000
+1
+FlyDark 0.3
+79000
+1
+DarkBeer0.3L
+79000
+1
+PaulanerP1
+385000
+TTL Food 645000
+TTL Beer 415000
+Discount total 129000-
+Service Charge 93100
+Tax 102410
+Payment 1126510
+Visa (M) 1126510

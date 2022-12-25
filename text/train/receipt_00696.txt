@@ -1,0 +1,18 @@
+Sub Total 47,727
+P.Rest 10 % 4.773
+Total 52,500
+Cash 60,000
+Kembali 7,500
+4 Items,
+1
+Spaghetti Deluxe
+8.182
+1
+Lychee Float
+5.909
+1
+SB 1 HC
+27.727
+1
+Perkedel
+5.909

@@ -1,0 +1,16 @@
+1001-Choco Bun
+22.000
+x1
+22.000
+2001-Hokkaido Milk Toast
+22.000
+x1
+22.000
+6002-Plastic Bag Medium
+0
+x1
+0
+Total Item: 3
+Total. 44.000
+Cash Tendered: 50.000
+Change: 6.000

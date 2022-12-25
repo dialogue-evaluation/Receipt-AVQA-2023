@@ -1,0 +1,14 @@
+Total 120.000
+3
+Subtotal 109.090
+PB 1 10.909
+Pembulatan + 1
+1
+YIFUMI
+41.818
+1
+Bihun Goreng
+35.454
+1
+Nasi Goreng
+31.818

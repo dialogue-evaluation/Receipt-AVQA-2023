@@ -1,0 +1,7 @@
+APUCINO MEDIUM
+18,182
+Gula Murni 100%
+Subtotal 18.182
+PAJAK 10% 1,818
+Total 20.000
+CASH 20.000

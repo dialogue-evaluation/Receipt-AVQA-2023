@@ -1,0 +1,28 @@
+SUBTTL 437,600
+SVC 5% 21,880
+PB1 10% 45,948
+3
+Peach Tea
+44,400
+4
+Lemon Tea
+59,200
+1
+Chicken Kazan Curry
+69,800
+** = NUKE =
+---
+1
+Chicken Karamiso Special
+54,800
+2
+Chicken Shio Special
+109,600
+1
+Beef Set A
+99,800
+* Beef Sukiyaki Ramen Sh
+---
+* Chicken Gyoza
+---
+TOTAL 505,428

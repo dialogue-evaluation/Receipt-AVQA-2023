@@ -1,0 +1,9 @@
+WHDP JR 15K
+15,000
+TakeQuay Charge
+909
+Subtotal 15,909
+PB1 (10%) 1,591
+Take Awoy Total 17,500
+Cash 20,000
+Change 2,500

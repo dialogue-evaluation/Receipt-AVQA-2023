@@ -1,0 +1,12 @@
+1
+SB 1 HC
+27,727
+1
+Cream Soup
+8,182
+Sub Total 35,909
+P.Rest 10 % 3,591
+Total 39,500
+Kupon 10,000
+T-CASH 29,500
+2 Items,

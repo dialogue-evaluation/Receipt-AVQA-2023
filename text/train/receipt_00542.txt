@@ -1,0 +1,10 @@
+3
+SI EKO
+60,000
+Subtotal 60,000
+Pb1 6,000
+Total 66,000
+CASH 70,000
+Cash CHANGE -4,000
+Total Item 1
+Total Qty 3

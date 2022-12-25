@@ -1,0 +1,21 @@
+Peach Iced Tea
+1
+35.000
+Mango Mint Iced Tea
+1
+35.000
+Nannys Customer Fries
+1
+45.000
+Robert Olio Mushroom Spaghetti
+1
+59.000
+Emily's Shrimp Scampi Fettucine
+1
+69.000
+Sub Total 243.000
+Discount (0)
+Service 13.365
+Others 25.637
+GRAND TOTAL 282.000
+Rounding Off -02

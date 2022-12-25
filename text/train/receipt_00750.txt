@@ -1,0 +1,71 @@
+1
+Bakpao telur asin
+22,800
+1
+Cai Mieo
+15,800
+1
+caisim special
+15,800
+1
+Carsiupau Ayam
+22,800
+1
+Fish Glue
+27,800
+1
+Jamur Isi Ayam
+32,800
+1
+Jamur Kuping
+21,800
+1
+Kailan hongkong
+15,800
+1
+Kuah Kaldu Ayam
+1
+Kue Macok
+22,800
+1
+Pangsit Special
+27,800
+1
+Sirloin Roll Enoki
+34,800
+1
+Sutake Kombinasi
+31,800
+1
+Tahu Jepang
+10,800
+1
+Tahu Sandwidh
+26,800
+1
+TOM YAM
+1
+Udon
+19,800
+2
+Chines Tea Green Tea
+21,600
+2
+Tahu Isi Ayam
+55,600
+5
+Green tea Dingin
+84,000
+7
+Nasi Putih
+68,600
+1
+Bakso Ikan
+25,800
+ITEMS TOTAL 605,600
+Promo UOB 20% ( 100,000)
+SUBTOTAL 505,600
+Services 5% 25,280
+TAX 10% 53,088
+TOTAL 583,968
+BCA MASTER 583,968

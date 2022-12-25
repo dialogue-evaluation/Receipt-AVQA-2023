@@ -1,0 +1,21 @@
+2
+52.000
+104.000
+Nasi CampurBali
+1
+32.000
+32.000
+Sambal Besar
+1
+7.000
+7.000
+Sambal Kecil
+2
+7.000
+14.000
+Es Teh Manis
+1
+10.000
+10.000
+KrpBangka/Bawang
+CASH 167.000

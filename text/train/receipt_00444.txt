@@ -1,0 +1,9 @@
+Arem Arem
+4x
+12.000
+48.000
+Subtotal 48.000
+Tax (10.0%) 4.800
+Total 52.800
+Cash 54.000
+Change 1.200

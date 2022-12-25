@@ -1,0 +1,8 @@
+CORDON BLEU
+2
+49,090
+98,180
+Sub Total 98,180
+Pajak Resto 9,818
+Grand Total 107,998
+Jumlah Item 2

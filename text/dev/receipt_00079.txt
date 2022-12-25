@@ -1,0 +1,25 @@
+1
+Crab Stick
+9.000
+1
+Bakso Lobster
+10.000
+1
+Sawi Putih
+7.000
+1
+Jamur Enoki
+8.000
+1
+Jamur Kuping
+8.000
+2
+Maling
+12000
+24.000
+1
+Nasi (MLY)
+6.000
+Subtotal 72.000
+TOTAL 72.000
+BCA 72.000

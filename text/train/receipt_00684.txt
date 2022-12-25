@@ -1,0 +1,11 @@
+CHOCOLATE SUNDAE
+8,636
+REGULAR FRIES
+8,636
+TakeAway Charge
+909
+Subtotal 18,181
+PB1 (10%) 1,818
+Round 1
+Take Away Total 20,000
+Cash 20,000

@@ -1,0 +1,25 @@
+1
+Pavarotti
+16,000
+1
+Lov Triangle
+12,000
+1
+Choco Bun
+10,500
+1
+Mgc Chees Wd
+10,000
+1
+Hot Cappuccino
+20,000
+1
+Ice Cappuccino
+20,000
+SUBTOTAL 88.500
+Beverage 50% 20,000
+DUE 68.500
+CASH 100,000
+CHANGE 31,500
+6 ITEM
+TOTAL QTY 6 PCS

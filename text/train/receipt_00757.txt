@@ -1,0 +1,11 @@
+Cuci
+1.0
+0
+B Pjg/Vr 3
+1.0
+92,000
+Total Perawatan 92,000
+Total Produk 0
+Grand Total 92,000
+Tunai 100,000
+Kembalian 8,000

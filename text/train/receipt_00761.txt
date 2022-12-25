@@ -1,0 +1,9 @@
+1
+Lemon Tea (L)
+25.000
+1
+Popcorn Salt (M)
+40.000
+TOTAL 65.000
+CASH 65.000
+CHANGED 0

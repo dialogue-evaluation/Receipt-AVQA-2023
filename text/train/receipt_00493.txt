@@ -1,0 +1,13 @@
+1
+Large 1
+11.000
+3
+Small 1
+30.000
+1
+*PlastiK Kcl
+0
+5
+Total 41.000
+Bayar 100.000
+Kembali 59.000

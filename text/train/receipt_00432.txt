@@ -1,0 +1,9 @@
+1
+XXI Java Tea Spc
+25.000
+1
+Popcorn Sweet (S)
+30.000
+TOTAL 55.000
+CASH 100.000
+CHANGED 45.000

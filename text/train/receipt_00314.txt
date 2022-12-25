@@ -1,0 +1,7 @@
+2
+Nutella Cheese
+54,544
+SubTotal: 54,544
+PB1: 5,454
+Total: 59,998
+Debit Card: 59,998

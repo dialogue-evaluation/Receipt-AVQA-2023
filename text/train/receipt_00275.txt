@@ -1,0 +1,18 @@
+1
+Benedict Burrito
+85,000
+1
+Lychee Ice Tea
+40,000
+1
+Soup Of The Day
+45,000
+1
+Strawberry jc
+45,000
+SUBTOTAL 215,000
+SERVICE 21,500
+TAX 23,650
+TOTAL 260,150
+Total item 4
+Total Qty 4

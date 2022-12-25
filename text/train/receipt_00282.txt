@@ -1,0 +1,9 @@
+2
+SINGLE Cone
+76,364
+Strawberry Cheese
+Run Raisin
+88.620
+SUBTOTAL 76.364
+SVO CHG 4,200
+PB1 8.056

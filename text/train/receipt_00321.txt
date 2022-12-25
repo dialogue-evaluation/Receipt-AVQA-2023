@@ -1,0 +1,47 @@
+1
+Angus Striploin
+295,000
+1
+Chicken Steak
+140,000
+1
+CK Redvelvet
+65,000
+1
+Creamed Spinach
+40,000
+1
+F Squeeze Orange
+60,000
+1
+House Blend
+40,000
+1
+Ice Tea Peach
+45,000
+2
+Ice Tea Rasp
+90,000
+1
+Jasmine Tea
+40,000
+2
+Roasted Chicken
+300,000
+1
+Salmon
+170,000
+1
+Salmon Seaweed Bowl
+150,000
+1
+Sorbet
+55,000
+SUBTOTAL 1,490,000
+SERVICE 149,000
+TAX 163,900
+Subtotal BEV NON ALCOHOL 275,000
+Subtotal FOOD 1,095,000
+Subtotal MODIFIER 0
+Subtotal PASTRY 120,000
+TOTAL 1,802,900

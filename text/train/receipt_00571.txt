@@ -1,0 +1,14 @@
+:
+:
+1
+SMOKY PAN CLASSIC
+59,000
+1
+Chicken Popcorn
+29,000
+SUBTOTAL 88,000
+SC 5% 4,400
+PB1 10% 9,240
+TOTAL 101,640
+Total item 2
+Total Qty 2

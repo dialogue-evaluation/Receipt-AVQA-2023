@@ -1,0 +1,7 @@
+*1 Pc
+Cheese Tart
+Rp 29000.00
+Total: Rp 29000.00
+Customer Paid Cash: Rp 100000.00
+Customer Change: Rp 71000.00
+Subtotal: 29000.00

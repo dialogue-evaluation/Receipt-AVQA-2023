@@ -1,0 +1,13 @@
+DL+GA+FF+R+2RB
+88.000
+88.000
+UP Drink 16
+0
+0
+1
+UP Orange 16
+2.000
+2.000
+1
+CARD2 90.000
+3 Total

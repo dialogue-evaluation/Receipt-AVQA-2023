@@ -1,0 +1,25 @@
+TOTAL 516,780
+Total item 5
+Total Qty 6
+SUBTOTAL 435,000
+Service 34,800
+Tax 46,980
+Subtotal BEVERAGES 376,000
+Subtotal PASTRY 59,000
+Pandan Cream brulee
+1
+59,000
+Tanqueray NO 10 gls
+2
+240,000
+Lurisia Bolle 330ml
+1
+55,000
+Lurisia stille 330ml
+1
+45,000
+2
+++Tonic Water
+Tonic Water
+1
+36,000

@@ -1,0 +1,25 @@
+Pork Belly Cheese Fries
+65,000
+1
+65,000
+Reflection Sparkling
+20,000
+1
+20,000
+Hot Black Cofee
+30,000
+1
+30,000
+Nasi Campur ala Bali
+75,000
+2
+150,000
+Oriental "Ketjap" Pork Rice
+55,000
+1
+55,000
+SUBTOTAL 320,000
+SERVICE 16,000
+Pb1 33,600
+VOUCHER 0
+GRAND TOTAL 369,600

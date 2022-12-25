@@ -1,0 +1,6 @@
+Hot Dog W Cheese
+1
+44.000
+TOTAL 44.000
+CASH 44.000
+CHANGED 0

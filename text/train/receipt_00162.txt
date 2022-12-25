@@ -1,0 +1,23 @@
+Rp
+Rp
+Rp
+Rp
+Butter croissant
+14.000
+1x
+14.000
+Afternoon Discount ( (4.200) After 4pm) (30%)
+Almond Croissant
+28.000
+1x
+28.000
+Afternoon Discount ( (8.400) After 4pm) (30%)
+Mini Chocolate Donut
+12.000
+1x
+12.000
+Afternoon Discount ( (3.600) After 4pm) (30%)
+Subtotal 37.800
+Tax (10.0%) 3.780
+Total 41.580
+Other 41.580 gp

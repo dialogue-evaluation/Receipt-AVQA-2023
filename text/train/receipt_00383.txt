@@ -1,0 +1,10 @@
+1
+Viet Milk Coffee
+18,000
++Ice
++S
++strong
+Subtotal 18.000
+Total 18.000
+CASH 19.000
+Kembalian 1.000

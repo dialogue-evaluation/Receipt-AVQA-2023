@@ -1,0 +1,10 @@
+1X
+S-Chocolate Milk
+@20,000
+20,000
+Less Ice
+Subtotal: 20,000
+PB1: 0
+Total: 20,000
+Cash: 20,000
+CHANGE: 0

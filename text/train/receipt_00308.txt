@@ -1,0 +1,18 @@
+1
+Mineral water (s)
+15.000
+1
+Blend GT (M)
+55.000
+1
+Extra Jelly Lychee
+5.000
+1
+Extra Ice Cream
+15.000
+1
+French Fries + FF
+50.000
+TOTAL 140.000
+CASH 150.000
+CHANGED 10.000

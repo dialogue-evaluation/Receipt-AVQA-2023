@@ -1,0 +1,8 @@
+Subtotal 38.000
+Pajak 3.800
+Total 41.800
+CASH 102.000
+Kembalian 60.200
+1
+Iced Mochaccino
+38.000

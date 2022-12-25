@@ -1,0 +1,15 @@
+PLASTIC BAG
+1
+500.00
+Pink Panther (P)
+1
+37,500.00
+Subtotal 75,500.00
+Discount 0.00
+Total 75,500.00
+Payment 75,500.00
+Change 0.00
+3 item(s)
+Red dragon (P)
+1
+37,500.00

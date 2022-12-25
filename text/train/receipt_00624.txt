@@ -1,0 +1,17 @@
+Chicken Soy Sauce H
+1
+95,000
+Butter Cheese Corn
+1
+45,000
+Bintang L
+1
+59,000
+Chum Churum
+1
+140,000
+Sub Total 339,000
+Discount 0
+Service 16,950
+Tax 35,595
+TOTAL 391,545

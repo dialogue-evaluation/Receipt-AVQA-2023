@@ -1,0 +1,11 @@
+1
+Iced Sleepy Coffee
+38.000
+1
+Pisang Goreng
+28.000
+Subtotal 66.000
+Pajak 6.600
+Total 72.600
+DEBIT Card 72.600
+Kembalian 0

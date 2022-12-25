@@ -1,0 +1,12 @@
+1
+SAYAP
+13,636
+1
+PAHA BAWAH
+13,636
+Subtotal 27,272
+P. Resto 10% 2,700
+Total 30,000
+2
+Tendered 50,000
+Kembali 20,000

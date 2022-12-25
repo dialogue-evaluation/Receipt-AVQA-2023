@@ -1,0 +1,11 @@
+1
+BBQ Chicken
+41,000
+1
+- Tidak Pedas
+0
+ITEMS: 1
+Total 41,000
+Pay Cash 41,000
+Change 0
+41,000

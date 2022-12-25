@@ -1,0 +1,21 @@
+1
+Ayam Asam Manis M
+94,000
+1
+Ikan Gurame Tahu M
+108,000
+1
+Pocai 3 Telor M
+112,000
+1
+Sapo Tohu Sea M
+112,000
+1
+Udang Gandum L
+212,000
+SUDTOTAL 638,000
+FAVE 600 ( 600,000)
+Service 38,280
+Tax 67,628
+TOTAL 143,908
+MASTER 143,908

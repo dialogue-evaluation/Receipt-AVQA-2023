@@ -1,0 +1,23 @@
+TOTAL 574,255
+574,255 Master
+1
+Grilled Salmon Head
+24,500
+SUBTOTAL 492,500
+PB1 10% 52,205
+SC 6% 29,550
+1
+Set Menu Family
+318,000
+1
+Tairyos Salmon Maki
+46,000
+2
+Tepanyaki Cawanmushi
+44,000
+1
+Teppan Seafood Fr Rc
+36,000
+1
+Tobiko Gunkan
+24,000

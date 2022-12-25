@@ -1,0 +1,11 @@
+Total 42,000
+Cash 102,000 Pay
+Change : 60,000
+ITEMS: 1
+1
+Seaweed Chicken
+42,000
+1
+- Pedas sedikit
+0
+42,000

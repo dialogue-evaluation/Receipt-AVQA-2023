@@ -1,0 +1,9 @@
+2
+YELLOW
+20,000
+Subtotal 20,000
+Tax 2,000
+TOTAL 22,000
+CASH 102,000
+Change 80,000
+2 QT

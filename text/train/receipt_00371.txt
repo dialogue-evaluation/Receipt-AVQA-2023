@@ -1,0 +1,16 @@
+Total: 42,000
+Cash: 50,000
+CHANGE: 8,000
+Subtotal: 42,000
+PB1: 0
+S-Ovaltine Macchiat
+@22,000
+1X
+22,000
+25%
+S-Hazelnut Milk Tea
+@20,000
+1X
+20,000
+70%
+Less Ice

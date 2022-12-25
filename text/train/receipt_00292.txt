@@ -1,0 +1,9 @@
+2
+Mineral Water (S).
+20.000
+1
+Popcorn Salt (S).
+20.000
+TOTAL 40.000
+CASH 40.000
+CHANGED 0

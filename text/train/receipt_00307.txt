@@ -1,0 +1,8 @@
+SubTotal: 10,455
+PB1: 1,046
+1
+Choco Peanut
+10,455
+Total: 11,500
+cash: 50,000
+Change: 38,500

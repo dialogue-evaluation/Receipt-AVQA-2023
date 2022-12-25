@@ -1,0 +1,10 @@
+Dum Dum Thai Coffee
+1
+19.000
+1
+Ice
+1.000
+Subtotal 20.000
+TOTAL 20.000
+Cash 50.000
+Change Due 30.000

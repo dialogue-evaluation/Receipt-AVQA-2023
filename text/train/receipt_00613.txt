@@ -1,0 +1,23 @@
+1
+Crispy Egg Corn
+42,000
+1
+Mun Tofu
+62,000
+1
+Go Hiong
+65,000
+3
+12,000
+Steam Rice
+36,000
+2
+18,000
+Ice Lemon Tea
+36,000
+Item Total: 241,000
+Service 7.5%: 18,075
+PHR 10%: 25,908
+Total: 284,983
+DEBIT BCA 284,983
+0 CHANGES

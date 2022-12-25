@@ -1,0 +1,10 @@
+1
+BBQ Chicken
+41,000
+1
+Sedang
+0
+ITEMS: 1
+Total. 41,000
+DEBIT BCA: 41,000
+41,000

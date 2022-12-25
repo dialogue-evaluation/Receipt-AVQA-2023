@@ -1,0 +1,9 @@
+Chicken Mushroom Puf f
+2x
+10.000
+20.000
+Subtotal 20.000
+Tax (10.0%) 2.000
+Total 22.000
+Cash 25.000
+Change 3.000

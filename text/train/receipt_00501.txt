@@ -1,0 +1,12 @@
+CHICKEN PICATTA
+1
+46,363
+46,363
+JAVA TEA
+1
+11,363
+11,363
+Sub Total 57,726
+Pajak Resto 5,772
+Grand Total 63,498
+Jumlah Item 2

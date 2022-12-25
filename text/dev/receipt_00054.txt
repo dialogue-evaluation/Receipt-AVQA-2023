@@ -1,0 +1,12 @@
+4003-Blueberry Fuji
+40.000
+x1
+40.000
+6001-Plastic Bag Small
+0
+x1
+0
+Total Item: 2
+Total. 40.000
+Cash Tendered: 50.000
+Change: 10.000

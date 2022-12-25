@@ -1,0 +1,12 @@
+SB 1 HC
+27,727
+1
+CHARGE TA
+909
+1
+Sub Total 28,636
+P.Rest 10 % 2,864
+Total 31,500
+Cash 50,000
+<embali 18,500
+2 Items,

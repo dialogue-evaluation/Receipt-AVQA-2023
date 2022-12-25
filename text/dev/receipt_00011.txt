@@ -1,0 +1,17 @@
+Se'I Sapi Sambal Matah ( R )
+1
+20.000
+Se'I Sapi Lada Hitam (J)
+1
+35.000
+Nasi Putih
+2
+10.000
+Milk Shake Coklat
+1
+16.000
+Subtotal 81.000
+PB 1 10% 8.100
+Total 89.100
+Kartu 89.100
+Kembali 0

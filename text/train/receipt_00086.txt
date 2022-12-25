@@ -1,0 +1,8 @@
+1
+BUNCIS MUDA TE
+20.000
+Subtotal 20.000
+SC 600
+Tax Total 2.060
+Grand Total 22.660
+Qty: 1

@@ -1,0 +1,7 @@
+1
+WOOSAM RICE R
+33,636
+Subtotal 33,636
+Tax 3,364
+Total 37,000
+GOPAY 37,000

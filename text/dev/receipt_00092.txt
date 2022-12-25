@@ -1,0 +1,12 @@
+Total 23,000
+Cash 25,000
+Kembali 2,000
+2 Items,
+1
+<FC Winger HC
+20,000
+1
+CHARGE TA
+909
+Sub Total 20,909
+P.Rest 10 % 2,091

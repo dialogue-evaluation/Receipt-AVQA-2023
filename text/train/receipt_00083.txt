@@ -1,0 +1,10 @@
+1
+ICED White
+43.000
+1
+Mexican Baked Rice
+58.000
+Subtotal 101.000
+Total 101.000
+DEBIT 101.000
+Change 0

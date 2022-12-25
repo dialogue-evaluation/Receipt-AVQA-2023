@@ -1,0 +1,8 @@
+1
+SmokeBeef + NuTea
+21,818 -
+SubTotal: 21,818
+PB1: 2,182
+Total: 24,000
+cash: 50,000
+Change: 26,000

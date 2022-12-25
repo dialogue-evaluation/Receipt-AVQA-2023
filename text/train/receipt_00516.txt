@@ -1,0 +1,18 @@
+1
+ChicTeriyakiTeishoku
+59,000
+1
+JapaneseBeef Hamburg
+43,000
+1
+Ocha Cold
+15,000
+1
+Ocha Hot
+15,000
+SUBTOTAL 132,000
+Service 9,900
+PB1 14,190
+TOTAL 156,090
+:4 Total item
+Total Qty :4

@@ -1,0 +1,16 @@
+3002-Kyoto Choco Mochi
+14.000
+x4
+56.000
+3001-Sakura Mochi
+14.000
+x1
+14.000
+6001-Plastic Bag Small
+0
+x1
+0
+Total. 70.000
+Cash Tendered: 100.000
+Change: 30.000
+Total Item: 6

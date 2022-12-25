@@ -1,0 +1,18 @@
+6001
+-Plastic Big Small
+0,00
+x1
+0,00
+5003
+-Chokoreto Cookies
+62.000,00
+x1
+62.000,00
+5001
+-Corn Flakes Cookies
+56.000,00
+x1
+56.000,00
+Total Item: 3
+Total. 118.000,00
+Debet Card 118.000,00

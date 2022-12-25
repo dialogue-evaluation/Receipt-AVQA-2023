@@ -1,0 +1,19 @@
+TOTAL 250,107
+SUBTOTAL 214.500
+Service 12.870
+Pajak Restoran 22.737
+2
+Ayam Bakar
+55.000
+2
+Nasi Putih
+20.000
+1
+Nila Bakar/Goreng
+27,500
+1
+Sop Gurame
+87.000
+1
+Teh Poci
+25.000

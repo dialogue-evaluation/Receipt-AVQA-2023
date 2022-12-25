@@ -1,0 +1,46 @@
+escargot florentine
+0001
+1
+32,000
+32.000
+Zurich Geschnitzel
+0045
+1
+82,000
+82.000
+Valdostana
+0050
+3
+59,000
+177.000
+Chicken Herb Crust
+0056
+1
+52,000
+52.000
+Lasagna Di Carne
+0079
+1
+54,000
+54.000
+Lemon Jc
+0134
+1
+25,000
+25.000
+Apple Pie
+1
+25,000
+25.000
+hot tea
+1
+12,000
+12.000
+hot lemon tea
+1
+22,000
+22.000
+Sub Total 481,000
+Services 24,050
+Tax 48,100
+553,200

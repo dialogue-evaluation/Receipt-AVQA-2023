@@ -1,0 +1,12 @@
+1001-Choco Bun
+x1
+22.000
+22.000
+Total. 22.000
+Cash Tendered: 52.000
+Change: 30.000
+Total Item: 2
+6001-Plastic Bag Small
+x1
+0
+0

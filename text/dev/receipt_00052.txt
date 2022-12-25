@@ -1,0 +1,13 @@
+2
+KENTHIR 2
+42.000
+Total 56.000
+CASH 56.000
+Kembalian 0
+Subtotal 56.000
+2
+KOL GORENG
+6.000
+2
+TEH MANIS
+8.000

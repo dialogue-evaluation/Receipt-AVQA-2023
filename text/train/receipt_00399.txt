@@ -1,0 +1,7 @@
+BULGOGI SET
+1
+45,000
+Subtotal 45,000
+Tax 4,500
+Total 49,500
+GOPAY 49,500

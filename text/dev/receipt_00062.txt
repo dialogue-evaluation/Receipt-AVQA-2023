@@ -1,0 +1,14 @@
+TOTAL 62,000
+CASH 100,000
+Change 38,000
+1
+French Fries
+10,909
+SUBTOTAL 56,364
+PB1 5,636
+2
+Cheese Burger
+36,364
+1
+Milo
+9.091

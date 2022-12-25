@@ -1,0 +1,8 @@
+Kupon 7
+42,727
+MINERAL WATER
+8,182
+Subtotal 50,909
+PB1 (10%) 5,091
+Dine In Total 56,000
+Cash 56,000

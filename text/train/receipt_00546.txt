@@ -1,0 +1,9 @@
+Total 20.000
+CASH 20.000
+Kembalian 0
+Subtotal 20.000
+1
+Tea Latte
+20.000
++Hot
++M

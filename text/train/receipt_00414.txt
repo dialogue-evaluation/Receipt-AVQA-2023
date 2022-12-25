@@ -1,0 +1,7 @@
+TOTAL 12,000
+CASH 12,000
+CHANGE 0
+1
+bluberry pastry
+12,000
+12,000

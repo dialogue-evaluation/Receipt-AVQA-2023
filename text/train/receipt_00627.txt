@@ -1,0 +1,9 @@
+1
+Choco Cheese
+13,636
+Exclusive Member Car -2,045
+SubTotal: 13,636
+Discount: -2,045
+PB1: 1,159
+Total: 12,750
+cash: 12,750

@@ -1,0 +1,14 @@
+PAKET CHICKEN 4
+1
+29,000
+29,000
+KOREAN COLD TEA
+1
+9,000
+9,000
+Subtotal 38,000
+Services 1,900
+Tax 3,990
+Total 43,890
+Tunai 50,000
+Kembali 6,110

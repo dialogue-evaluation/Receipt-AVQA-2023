@@ -1,0 +1,36 @@
+Rp.
+Rp.
+Rp.
+Rp.
+Rp.
+Rp.
+Rp.
+Total Rp. 209.999
+Rp.
+Rp.
+Rp.
+Pecel Pincuk
+10
+12.727
+127.270
+Tahu Bacem
+5
+3.182
+15.910
+Tempe Bacem
+5
+3.182
+15.910
+Empal
+2
+12.727
+25.454
+Peyek Parcel
+1
+25.455
+25.455
+SubTotal 209.999
+Ppd 10% 21.000
+TOTAL 230.999
+CASH 250.000
+CHANGE 19.001
