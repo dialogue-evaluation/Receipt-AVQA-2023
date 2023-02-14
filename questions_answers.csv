@@ -386,7 +386,7 @@ dev,X51005764154,How many positions are free of cost?,0.0
 dev,X51005764154,What is net total and total amount ratio?,0.9434063260340632
 dev,X51005764154,What is the total amount paid?,205.5
 dev,X51005764154,What is the payment made by cash?,205.5
-dev,X51005806695,How many goods in the 1st position can be bought for 4?,0.0
+dev,X51005806695,How many goods in the 1st position can be bought for 4?,1.0
 dev,X51005806695,How many positions are in the receipt?,1.0
 dev,X51005806695,How many goods are in the 1st position?,2.0
 dev,X51005806695,How many goods were sold in total?,2.0
@@ -574,7 +574,7 @@ dev,X51006414427,How many positions are free of charge?,0.0
 dev,X51006414427,How many positions are with unit price lower than 0.5?,0.0
 dev,X51006414427,What is the mean price of a position?,3.8
 dev,X51006414427,How many positions are in the receipt?,2.0
-dev,X51006414427,What is the ratio of total excluding taxes to total?,1.0
+dev,X51006414427,What is the ratio of total excluding taxes to total?,0.94342105263
 dev,X51006414427,What is the payment made by cash?,7.6
 dev,X51006414427,What is the total amount?,7.6
 dev,X51006414433,How many goods in the 2nd position can be bought for 1?,2.0
@@ -594,7 +594,7 @@ dev,X51006414632,What is the sum of prices in the first 3 positions?,10.6
 dev,X51006414632,What is the largest unit price in the receipt?,3.0
 dev,X51006414632,What is the quantity of products in the 2nd position?,2.0
 dev,X51006414632,How much should be paid?,10.6
-dev,X51006414632,What is the ratio of total excluding taxes to total?,1.0
+dev,X51006414632,What is the ratio of total excluding taxes to total?,0.94339622641
 dev,X51006414632,How much was paid by cash?,10.6
 dev,X51006414708,How many positions are with unit price lower than 2.4?,0.0
 dev,X51006414708,What is the largest unit price?,20.9
@@ -1175,7 +1175,7 @@ dev,receipt_00006,How many positions are with price lower than 19000.0 in the re
 dev,receipt_00006,What is the minimum price of a position?,19000.0
 dev,receipt_00006,What is the average price in the first 2 positions?,35500.0
 dev,receipt_00006,What is the highest unit price in the receipt?,52000.0
-dev,receipt_00006,How much was paid via non-cach means?,123000.0
+dev,receipt_00006,How much was paid via non-cash means?,123000.0
 dev,receipt_00006,What is the total amount paid?,123000.0
 dev,receipt_00007,What is the price of the 1st position in thousands?,63.636
 dev,receipt_00007,How much is the minimum unit price?,15909.0
@@ -1218,7 +1218,7 @@ dev,receipt_00009,How many goods were sold in total?,1.0
 dev,receipt_00009,How many goods in the 1st position can be bought for 23716?,1.0
 dev,receipt_00009,What share of cash was returned as change?,0.0
 dev,receipt_00009,How much cash was received?,20000.0
-dev,receipt_00009,How much was paid via non-cach means?,0.0
+dev,receipt_00009,How much was paid via non-cash means?,0.0
 dev,receipt_00009,What is the quantity of the change?,0.0
 dev,receipt_00009,What is ratio of the amount due and the cash received?,1.0
 dev,receipt_00009,What is the total amount due?,20000.0
@@ -1247,7 +1247,7 @@ dev,receipt_00011,How many positions were bought?,4.0
 dev,receipt_00011,What is the minimum price in the first 2 positions?,20000.0
 dev,receipt_00011,How many goods in the 3rd position can be bought for 98588?,19.0
 dev,receipt_00011,What is the total amount of taxes to be paid?,8100.0
-dev,receipt_00011,How much was paid via non-cach means?,89100.0
+dev,receipt_00011,How much was paid via non-cash means?,89100.0
 dev,receipt_00011,How much was charged for the service?,0.0
 dev,receipt_00011,What is the total amount due?,89100.0
 dev,receipt_00012,How many goods in the 1st position can be bought for 32383?,1.0
@@ -1346,7 +1346,7 @@ dev,receipt_00019,What is the lowest price in the first 2 positions?,12500.0
 dev,receipt_00019,How many positions are free of charge?,0.0
 dev,receipt_00019,What is the total number of positions?,3.0
 dev,receipt_00019,What is the price of the 3rd position in thousands?,17.0
-dev,receipt_00019,How much was paid via non-cach means?,0.0
+dev,receipt_00019,How much was paid via non-cash means?,0.0
 dev,receipt_00019,What is the rounding value?,0.0
 dev,receipt_00019,How much was paid in real money after all the reductions applied?,42500.0
 dev,receipt_00019,What is the cash value?,50000.0
@@ -1459,7 +1459,7 @@ dev,receipt_00028,What would be the price of the 1st position if the quantity in
 dev,receipt_00028,What is the quantity of items in the 2nd position?,1.0
 dev,receipt_00028,What is the highest unit price in the receipt?,12000.0
 dev,receipt_00028,How much was paid by cash?,22000.0
-dev,receipt_00028,How much was paid via non-cach means?,0.0
+dev,receipt_00028,How much was paid via non-cash means?,0.0
 dev,receipt_00028,What share of the cash received was used for the payment?,1.0
 dev,receipt_00028,What is the total amount paid?,22000.0
 dev,receipt_00028,What is the ratio of change to cash?,0.0
@@ -1624,7 +1624,7 @@ dev,receipt_00041,How many goods are in the 1st position?,1.0
 dev,receipt_00041,What is the total quantity of goods sold?,22.0
 dev,receipt_00041,What is the smallest unit price?,0.0
 dev,receipt_00041,What is the total amount paid?,2352460.0
-dev,receipt_00041,How much was paid via non-cach means?,2352460.0
+dev,receipt_00041,How much was paid via non-cash means?,2352460.0
 dev,receipt_00041,What is the total amount of discounts applied?,0.0
 dev,receipt_00041,How much is the service charge on top of the cost of goods?,140000.0
 dev,receipt_00041,How much in total was paid in taxes?,212460.0
@@ -1640,10 +1640,10 @@ dev,receipt_00042,How much was paid digitally?,53000.0
 dev,receipt_00042,How much was paid in real money after all the reductions applied?,53000.0
 dev,receipt_00043,How many goods in the 2nd position were purchased?,1.0
 dev,receipt_00043,How much should be paid for 4 products from the 2nd position?,24000.0
-dev,receipt_00043,How many goods were sold in total?,2.0
-dev,receipt_00043,How much is the highest unit price?,272000.0
+dev,receipt_00043,How many goods were sold in total?,171.0
+dev,receipt_00043,How much is the highest unit price?,6000.0
 dev,receipt_00043,What is the average price in the first 2 positions?,139000.0
-dev,receipt_00043,How many goods in the 1st position can be purchased for 1212531?,4.0
+dev,receipt_00043,How many goods in the 1st position can be purchased for 1212531?,757.0
 dev,receipt_00043,What is the total number of positions?,2.0
 dev,receipt_00043,What is the quantity of the change?,22000.0
 dev,receipt_00043,What is the cash value?,300000.0
@@ -1678,7 +1678,7 @@ dev,receipt_00046,What is the quantity of items in the 1st position?,1.0
 dev,receipt_00046,What is the total amount due?,22000.0
 dev,receipt_00046,What is the cash value?,22000.0
 dev,receipt_00046,What is the ratio of change to cash?,0.0
-dev,receipt_00046,How much was paid via non-cach means?,0.0
+dev,receipt_00046,How much was paid via non-cash means?,0.0
 dev,receipt_00046,What is the change amount?,0.0
 dev,receipt_00046,What share of the cash received was used for the payment?,1.0
 dev,receipt_00047,How many positions are with price lower than or equal to 42000.0 in the receipt?,1.0
@@ -1784,7 +1784,7 @@ dev,receipt_00055,How many goods in the 2nd position can be purchased for 17495?
 dev,receipt_00055,How much should be paid for 7 items from the 2nd position?,210000.0
 dev,receipt_00055,What is the total quantity of goods sold?,4.0
 dev,receipt_00055,What is the maximum price in the first 2 positions?,60000.0
-dev,receipt_00055,How much of the total amount due is discounted?,60000.0
+dev,receipt_00055,What is the total discount amount?,60000.0
 dev,receipt_00055,How much was paid digitally?,60000.0
 dev,receipt_00055,What is the total amount paid?,60000.0
 dev,receipt_00056,How many positions are with price lower than or equal to 20000.0 in the receipt?,1.0
@@ -1836,7 +1836,7 @@ dev,receipt_00060,How many positions are with unit price larger than or equal to
 dev,receipt_00060,How many goods are in the 1st position?,1.0
 dev,receipt_00060,How many goods in the 1st position can be purchased for 551566?,3.0
 dev,receipt_00060,What would be the price of the 1st position if the quantity in that position were to change to 3?,540000.0
-dev,receipt_00060,How much was paid via non-cach means?,180000.0
+dev,receipt_00060,How much was paid via non-cash means?,180000.0
 dev,receipt_00060,How much is the service charge on top of the cost of goods?,0.0
 dev,receipt_00060,How much was paid in real money after all the reductions applied?,180000.0
 dev,receipt_00061,How much is the highest unit price?,4500.0
@@ -1976,7 +1976,7 @@ dev,receipt_00071,How many goods in the 2nd position can be bought for 6170?,6.0
 dev,receipt_00071,What is the change amount?,30000.0
 dev,receipt_00071,What is ratio of the amount due and the cash received?,0.4
 dev,receipt_00071,What is the ratio of change to cash?,0.6
-dev,receipt_00071,How much was paid via non-cach means?,0.0
+dev,receipt_00071,How much was paid via non-cash means?,0.0
 dev,receipt_00071,What is the total amount paid?,20000.0
 dev,receipt_00071,How much was paid by cash?,50000.0
 dev,receipt_00072,What is the total quantity of goods sold?,2.0
@@ -2009,7 +2009,7 @@ dev,receipt_00074,How much was paid by cash?,20000.0
 dev,receipt_00074,What is the quantity of the change?,0.0
 dev,receipt_00074,How much was paid in real money after all the reductions applied?,20000.0
 dev,receipt_00074,What share of the cash received was used for the payment?,1.0
-dev,receipt_00074,How much was paid via non-cach means?,0.0
+dev,receipt_00074,How much was paid via non-cash means?,0.0
 dev,receipt_00075,What is the position number of the largest quantity of items?,1.0
 dev,receipt_00075,What is the mean price of a position?,12090.8
 dev,receipt_00075,How much should be paid for 4 products from the 5th position?,3636.0
@@ -2051,9 +2051,9 @@ dev,receipt_00078,What is the price of the 4th position in thousands?,9.0
 dev,receipt_00078,What is the maximum price in the first 4 positions?,116000.0
 dev,receipt_00078,How many positions are free of charge?,0.0
 dev,receipt_00078,Which position is the minimum by quantity?,2.0
-dev,receipt_00078,How much was charged for the service?,700.0
+dev,receipt_00078,How much was charged for the service?,7700.0
 dev,receipt_00078,What is the total amount due?,177870.0
-dev,receipt_00078,How much in total was paid in taxes?,170.0
+dev,receipt_00078,How much in total was paid in taxes?,16170.0
 dev,receipt_00079,Which position is the minimum by quantity?,1.0
 dev,receipt_00079,How much should be paid for 4 items from the 4th position?,32000.0
 dev,receipt_00079,How many positions are in the receipt?,7.0
@@ -2065,7 +2065,7 @@ dev,receipt_00079,How many goods in the 5th position were purchased?,1.0
 dev,receipt_00079,What is the lowest price in the first 4 positions?,7000.0
 dev,receipt_00079,What is the price of the 2nd position in thousands?,10.0
 dev,receipt_00079,What is the total amount due?,72000.0
-dev,receipt_00079,How much was paid via non-cach means?,72000.0
+dev,receipt_00079,How much was paid via non-cash means?,72000.0
 dev,receipt_00080,What would be the price of the 1st position if the quantity in that position were to change to 4?,100000.0
 dev,receipt_00080,How many goods are in the 1st position?,1.0
 dev,receipt_00080,How many positions does the receipt contain?,1.0
@@ -2073,7 +2073,7 @@ dev,receipt_00080,What is the highest unit price in the receipt?,25000.0
 dev,receipt_00080,What is the position number of the largest quantity of items?,1.0
 dev,receipt_00080,How many goods in the 1st position can be purchased for 15901?,0.0
 dev,receipt_00080,What is the price of the 1st position in thousands?,25.0
-dev,receipt_00080,How much was paid via non-cach means?,0.0
+dev,receipt_00080,How much was paid via non-cash means?,0.0
 dev,receipt_00080,What share of the cash received was used for the payment?,1.0
 dev,receipt_00080,What share of cash was returned as change?,0.0
 dev,receipt_00080,How much was paid in real money after all the reductions applied?,25000.0
@@ -2185,7 +2185,7 @@ dev,receipt_00090,What would be the price of the 1st position if the quantity in
 dev,receipt_00090,How many positions are in the receipt?,1.0
 dev,receipt_00090,How much is the least unit price?,35000.0
 dev,receipt_00090,How many positions are with price larger than 35000.0 in the receipt?,0.0
-dev,receipt_00090,What is the total amount paid?,0.0
+dev,receipt_00090,What is the total amount paid in real money?,0.0
 dev,receipt_00091,How many positions are with price larger than 909.0 in the receipt?,1.0
 dev,receipt_00091,How many positions are free of charge?,0.0
 dev,receipt_00091,How many positions were bought?,2.0
@@ -2238,7 +2238,7 @@ dev,receipt_00094,How many goods in the 1st position can be purchased for 66750?
 dev,receipt_00094,How much should be paid for 3 products from the 1st position?,207000.0
 dev,receipt_00094,Which position has the minimum amount?,1.0
 dev,receipt_00094,How much was paid digitally?,0.0
-dev,receipt_00094,What is the total amount paid?,0.0
+dev,receipt_00094,What is the total amount paid in real money?,0.0
 dev,receipt_00094,What is the rounding value?,25.0
 dev,receipt_00094,How much is the service charge on top of the cost of goods?,3795.0
 dev,receipt_00095,What is the total quantity of goods sold?,2.0
@@ -9946,7 +9946,7 @@ train,receipt_00004,How many goods in the 1st position were purchased?,1.0
 train,receipt_00004,What is the total quantity of goods sold?,1.0
 train,receipt_00004,What is the position number of the minimum quantity of items?,1.0
 train,receipt_00004,How many goods in the 1st position can be bought for 126914?,2.0
-train,receipt_00004,How much was paid via non-cach means?,0.0
+train,receipt_00004,How much was paid via non-cash means?,0.0
 train,receipt_00004,What share of cash was returned as change?,0.04
 train,receipt_00004,What is the total amount of taxes to be paid?,4364.0
 train,receipt_00004,What is the change amount?,2000.0
@@ -9962,7 +9962,7 @@ train,receipt_00005,What is the total number of positions?,5.0
 train,receipt_00005,What is the highest price in the first 3 positions?,55000.0
 train,receipt_00005,How many goods were sold in total?,5.0
 train,receipt_00005,How much should be paid for 2 items from the 1st position?,90000.0
-train,receipt_00005,How much was paid via non-cach means?,161333.0
+train,receipt_00005,How much was paid via non-cash means?,161333.0
 train,receipt_00005,What is the total amount of taxes to be paid?,23758.0
 train,receipt_00005,What is the total amount due?,161333.0
 train,receipt_00005,How much is the service charge on top of the cost of goods?,16575.0
@@ -9974,7 +9974,7 @@ train,receipt_00006,What is the sum of prices in the first 2 positions?,56181.0
 train,receipt_00006,What is the price of the 2nd position in thousands?,13.0
 train,receipt_00006,What is the largest unit price in the receipt?,43181.0
 train,receipt_00006,What is ratio of the amount due and the cash received?,0.9968
-train,receipt_00006,How much was paid via non-cach means?,0.0
+train,receipt_00006,How much was paid via non-cash means?,0.0
 train,receipt_00006,What is the change amount?,201.0
 train,receipt_00006,How much in total was paid in taxes?,5618.0
 train,receipt_00006,What share of cash was returned as change?,0.0032
@@ -10055,7 +10055,7 @@ train,receipt_00012,How many goods were sold in total?,4.0
 train,receipt_00012,How much in total was paid in taxes?,8728.0
 train,receipt_00012,What is the total amount of discounts applied?,0.0
 train,receipt_00012,What is the total amount paid?,96000.0
-train,receipt_00012,How much was paid via non-cach means?,96000.0
+train,receipt_00012,How much was paid via non-cash means?,96000.0
 train,receipt_00013,What is the total quantity of goods sold?,4.0
 train,receipt_00013,How much is the least unit price?,23000.0
 train,receipt_00013,What is the total number of positions?,4.0
@@ -10099,7 +10099,7 @@ train,receipt_00016,What is the price of the 1st position in thousands?,30.0
 train,receipt_00016,What is the largest unit price?,30000.0
 train,receipt_00016,What is the total amount paid?,30000.0
 train,receipt_00016,How much of the total amount due is discounted?,0.0
-train,receipt_00016,How much was paid via non-cach means?,30000.0
+train,receipt_00016,How much was paid via non-cash means?,30000.0
 train,receipt_00017,How many goods in the 2nd position can be purchased for 83903?,9.0
 train,receipt_00017,What is the maximum price of a position?,9000.0
 train,receipt_00017,How many goods were sold in total?,3.0
@@ -10161,7 +10161,7 @@ train,receipt_00021,What is the mean price of a position?,14666.6667
 train,receipt_00021,How many positions were bought?,3.0
 train,receipt_00021,How many goods in the 1st position can be bought for 67961?,3.0
 train,receipt_00021,What is the quantity of the change?,6000.0
-train,receipt_00021,How much was paid via non-cach means?,0.0
+train,receipt_00021,How much was paid via non-cash means?,0.0
 train,receipt_00021,What share of the cash received was used for the payment?,0.88
 train,receipt_00021,What is the cash amount?,50000.0
 train,receipt_00021,How much was paid in real money after all the reductions applied?,44000.0
@@ -10215,7 +10215,7 @@ train,receipt_00025,How much should be paid for 3 products from the 1st position
 train,receipt_00025,What is the total quantity of goods sold?,1.0
 train,receipt_00025,How many goods in the 1st position were purchased?,1.0
 train,receipt_00025,What is the quantity of the change?,6000.0
-train,receipt_00025,How much was paid via non-cach means?,0.0
+train,receipt_00025,How much was paid via non-cash means?,0.0
 train,receipt_00025,What share of cash was returned as change?,0.3
 train,receipt_00025,How much was paid in real money after all the reductions applied?,14000.0
 train,receipt_00025,How much cash was received?,20000.0
@@ -10280,7 +10280,7 @@ train,receipt_00030,What share of cash was returned as change?,0.91
 train,receipt_00030,How much in total was paid in taxes?,818.0
 train,receipt_00030,What is the change amount?,91000.0
 train,receipt_00030,What is the cash amount?,100000.0
-train,receipt_00030,How much was paid via non-cach means?,0.0
+train,receipt_00030,How much was paid via non-cash means?,0.0
 train,receipt_00030,What is ratio of the amount due and the cash received?,0.09
 train,receipt_00030,What is the total amount paid?,9000.0
 train,receipt_00031,What is the highest price in the first 2 positions?,15000.0
@@ -10294,7 +10294,7 @@ train,receipt_00031,How many positions are with unit price lower than 15000.0?,1
 train,receipt_00031,What share of cash was returned as change?,0.2125
 train,receipt_00031,What is the change amount?,8500.0
 train,receipt_00031,What is ratio of the amount due and the cash received?,0.7875
-train,receipt_00031,How much was paid via non-cach means?,0.0
+train,receipt_00031,How much was paid via non-cash means?,0.0
 train,receipt_00031,What is the rounding value?,0.0
 train,receipt_00031,How much in total was paid in taxes?,2864.0
 train,receipt_00031,How much cash was received?,40000.0
@@ -10317,7 +10317,7 @@ train,receipt_00033,What is the position number of the largest quantity of items
 train,receipt_00033,How many positions do contain zero price?,1.0
 train,receipt_00033,How much should be paid for 2 items from the 2nd position?,18000.0
 train,receipt_00033,What is the total discount?,6800.0
-train,receipt_00033,How much was paid via non-cach means?,0.0
+train,receipt_00033,How much was paid via non-cash means?,0.0
 train,receipt_00033,What is the total amount due?,10200.0
 train,receipt_00033,What is the change amount?,9800.0
 train,receipt_00033,What share of the cash received was used for the payment?,0.51
@@ -10720,7 +10720,7 @@ train,receipt_00065,How many positions are with unit price lower than 35000.0?,1
 train,receipt_00065,How many zero prices are among the menu?,0.0
 train,receipt_00065,What is the position number of the minimum quantity of items?,2.0
 train,receipt_00065,What is the cash value?,650100.0
-train,receipt_00065,How much was paid via non-cach means?,0.0
+train,receipt_00065,How much was paid via non-cash means?,0.0
 train,receipt_00065,What is the total amount of taxes to be paid?,59100.0
 train,receipt_00065,What share of the cash received was used for the payment?,1.0
 train,receipt_00065,What is the total amount paid?,650100.0
@@ -10737,7 +10737,7 @@ train,receipt_00066,What share of cash was returned as change?,0.035
 train,receipt_00066,How much was paid in real money after all the reductions applied?,57900.0
 train,receipt_00066,What is ratio of the amount due and the cash received?,0.965
 train,receipt_00066,How much was paid by cash?,60000.0
-train,receipt_00066,How much was paid via non-cach means?,0.0
+train,receipt_00066,How much was paid via non-cash means?,0.0
 train,receipt_00066,How much in total was paid in taxes?,5264.0
 train,receipt_00067,How many goods are in the 1st position?,1.0
 train,receipt_00067,How much is the least unit price?,65000.0
@@ -10758,7 +10758,7 @@ train,receipt_00068,How much should be paid for 4 products from the 2nd position
 train,receipt_00068,What is the lowest price in the first 2 positions?,37500.0
 train,receipt_00068,What is the position number of the minimum quantity of items?,1.0
 train,receipt_00068,What is the total amount paid?,113000.0
-train,receipt_00068,How much was paid via non-cach means?,113000.0
+train,receipt_00068,How much was paid via non-cash means?,113000.0
 train,receipt_00069,How many positions are with unit price lower than 14000.0?,1.0
 train,receipt_00069,How many goods in the 1st position can be bought for 93982?,6.0
 train,receipt_00069,How much should be paid for 2 items from the 2nd position?,18000.0
@@ -10842,7 +10842,7 @@ train,receipt_00075,What is the highest price in the first 3 positions?,105000.0
 train,receipt_00075,How many positions are with price lower than or equal to 25975.0 in the receipt?,6.0
 train,receipt_00075,What is the position number of the maximum quantity of items?,2.0
 train,receipt_00075,How much should be paid for 2 items from the 6th position?,90000.0
-train,receipt_00075,How much was paid via non-cach means?,0.0
+train,receipt_00075,How much was paid via non-cash means?,0.0
 train,receipt_00075,What share of the cash received was used for the payment?,0.9635
 train,receipt_00075,How much was paid in real money after all the reductions applied?,337230.0
 train,receipt_00075,How much is the service charge on top of the cost of goods?,14598.0
@@ -10950,7 +10950,7 @@ train,receipt_00085,How many goods were sold in total?,119.0
 train,receipt_00085,How many positions does the receipt contain?,2.0
 train,receipt_00085,Which position is the minimum by quantity?,2.0
 train,receipt_00085,How many positions do contain zero price?,0.0
-train,receipt_00085,How much was paid via non-cach means?,57200.0
+train,receipt_00085,How much was paid via non-cash means?,57200.0
 train,receipt_00085,How much was charged for the service?,0.0
 train,receipt_00085,What is the total amount due?,57200.0
 train,receipt_00086,What is the largest unit price?,20000.0
@@ -10989,7 +10989,7 @@ train,receipt_00088,Which position has the minimum amount?,1.0
 train,receipt_00088,What is the price of the 2nd position in thousands?,28.69
 train,receipt_00088,How many positions are in the receipt?,2.0
 train,receipt_00088,What is the quantity of products in the 1st position?,80.0
-train,receipt_00088,How much was paid via non-cach means?,50039.0
+train,receipt_00088,How much was paid via non-cash means?,50039.0
 train,receipt_00088,How much of the total amount due is discounted?,0.0
 train,receipt_00088,How much was paid in real money after all the reductions applied?,50039.0
 train,receipt_00088,How much in total was paid in taxes?,4549.0
@@ -11045,7 +11045,7 @@ train,receipt_00093,How much is the highest unit price?,32500.0
 train,receipt_00093,What is the average price of a position?,28333.3333
 train,receipt_00093,What is the total amount due?,85000.0
 train,receipt_00093,What is the cash amount?,100000.0
-train,receipt_00093,How much was paid via non-cach means?,0.0
+train,receipt_00093,How much was paid via non-cash means?,0.0
 train,receipt_00093,What is the ratio of change to cash?,0.15
 train,receipt_00093,What is the quantity of the change?,15000.0
 train,receipt_00094,What is the smallest unit price?,0.0
@@ -11075,7 +11075,7 @@ train,receipt_00095,What is the change amount?,40000.0
 train,receipt_00095,What is the cash value?,52000.0
 train,receipt_00095,What is ratio of the amount due and the cash received?,0.2308
 train,receipt_00095,What share of cash was returned as change?,0.7692
-train,receipt_00095,How much was paid via non-cach means?,0.0
+train,receipt_00095,How much was paid via non-cash means?,0.0
 train,receipt_00096,How much should be paid for 4 products from the 1st position?,88000.0
 train,receipt_00096,How many goods in the 1st position can be bought for 78032?,3.0
 train,receipt_00096,How many positions are with unit price larger than or equal to 22000.0?,1.0
@@ -11149,7 +11149,7 @@ train,receipt_00101,How many goods were sold in total?,1.0
 train,receipt_00101,What would be the price of the 1st position if the quantity in that position were to change to 4?,52000.0
 train,receipt_00101,How many positions are in the receipt?,1.0
 train,receipt_00101,What share of the cash received was used for the payment?,0.143
-train,receipt_00101,How much was paid via non-cach means?,0.0
+train,receipt_00101,How much was paid via non-cash means?,0.0
 train,receipt_00101,What is the total amount due?,14300.0
 train,receipt_00101,How much in total was paid in taxes?,1300.0
 train,receipt_00101,What is the quantity of the change?,85700.0
@@ -11224,7 +11224,7 @@ train,receipt_00107,What is the quantity of products in the 1st position?,1.0
 train,receipt_00107,What is the price of the 1st position in thousands?,9.5
 train,receipt_00107,How many positions are in the receipt?,2.0
 train,receipt_00107,What is the change amount?,30000.0
-train,receipt_00107,How much was paid via non-cach means?,0.0
+train,receipt_00107,How much was paid via non-cash means?,0.0
 train,receipt_00107,What share of the cash received was used for the payment?,0.4231
 train,receipt_00107,What share of cash was returned as change?,0.5769
 train,receipt_00107,How much cash was received?,52000.0
@@ -11255,7 +11255,7 @@ train,receipt_00110,What is the quantity of items in the 1st position?,1.0
 train,receipt_00110,How many positions are in the receipt?,1.0
 train,receipt_00110,What would be the price of the 1st position if the quantity in that position were to change to 4?,109088.0
 train,receipt_00110,What is the price of the 1st position in thousands?,27.272
-train,receipt_00110,How much was paid via non-cach means?,0.0
+train,receipt_00110,How much was paid via non-cash means?,0.0
 train,receipt_00110,What is the cash value?,50000.0
 train,receipt_00110,What share of cash was returned as change?,0.4
 train,receipt_00110,What is ratio of the amount due and the cash received?,0.6
@@ -11299,7 +11299,7 @@ train,receipt_00114,How many positions does the receipt contain?,1.0
 train,receipt_00114,How many goods in the 1st position were purchased?,1.0
 train,receipt_00114,How many goods in the 1st position can be bought for 198386?,2.0
 train,receipt_00114,What is the price of the 1st position in thousands?,70.0
-train,receipt_00114,How much was paid via non-cach means?,70000.0
+train,receipt_00114,How much was paid via non-cash means?,70000.0
 train,receipt_00114,What is the total amount paid?,70000.0
 train,receipt_00115,What is the price of the 2nd position in thousands?,20.0
 train,receipt_00115,What is the total number of positions?,3.0
@@ -11469,7 +11469,7 @@ train,receipt_00129,What is the total quantity of goods sold?,4.0
 train,receipt_00129,How much cash was received?,116000.0
 train,receipt_00129,What is the total amount paid?,116000.0
 train,receipt_00129,What is the ratio of change to cash?,0.0
-train,receipt_00129,How much was paid via non-cach means?,0.0
+train,receipt_00129,How much was paid via non-cash means?,0.0
 train,receipt_00129,What is the quantity of the change?,0.0
 train,receipt_00129,What is ratio of the amount due and the cash received?,1.0
 train,receipt_00130,How many goods in the 1st position were purchased?,1.0
@@ -11516,7 +11516,7 @@ train,receipt_00133,What would be the price of the 1st position if the quantity 
 train,receipt_00133,What share of cash was returned as change?,0.14
 train,receipt_00133,What is the quantity of the change?,7000.0
 train,receipt_00133,How much was paid by cash?,50000.0
-train,receipt_00133,How much was paid via non-cach means?,0.0
+train,receipt_00133,How much was paid via non-cash means?,0.0
 train,receipt_00133,What is the total amount due?,43000.0
 train,receipt_00133,What share of the cash received was used for the payment?,0.86
 train,receipt_00134,How many goods in the 2nd position can be bought for 63788?,2.0
@@ -11564,7 +11564,7 @@ train,receipt_00137,How many positions does the receipt contain?,2.0
 train,receipt_00137,How many goods are in the 2nd position?,1.0
 train,receipt_00137,What is the total amount paid?,88000.0
 train,receipt_00137,What is the amount of rounding applied?,0.0
-train,receipt_00137,How much was paid via non-cach means?,88000.0
+train,receipt_00137,How much was paid via non-cash means?,88000.0
 train,receipt_00137,How much in total was paid in taxes?,8000.0
 train,receipt_00138,What is the smallest unit price?,48000.0
 train,receipt_00138,How many positions are with price larger than 58000.0 in the receipt?,0.0
@@ -11692,7 +11692,7 @@ train,receipt_00149,How many positions are with unit price lower than or equal t
 train,receipt_00149,What is the total number of positions?,7.0
 train,receipt_00149,How much was paid in real money after all the reductions applied?,53020.0
 train,receipt_00149,What is the total amount of discounts applied?,8691.0
-train,receipt_00149,How much was paid via non-cach means?,53020.0
+train,receipt_00149,How much was paid via non-cash means?,53020.0
 train,receipt_00150,What is the price of the 1st position in thousands?,20.0
 train,receipt_00150,What is the ratio of change to cash?,0.0
 train,receipt_00150,How much was paid by cash?,22000.0
@@ -11836,7 +11836,7 @@ train,receipt_00162,How many positions does the receipt contain?,3.0
 train,receipt_00162,What is the total amount of discounts applied?,16200.0
 train,receipt_00162,How much was paid in real money after all the reductions applied?,41580.0
 train,receipt_00162,What is the total amount of taxes to be paid?,3780.0
-train,receipt_00162,How much was paid via non-cach means?,41580.0
+train,receipt_00162,How much was paid via non-cash means?,41580.0
 train,receipt_00163,How much should be paid for 3 items from the 1st position?,36000.0
 train,receipt_00163,What is the total quantity of goods sold?,1.0
 train,receipt_00163,How many positions are in the receipt?,1.0
@@ -11901,7 +11901,7 @@ train,receipt_00169,What share of cash was returned as change?,0.54
 train,receipt_00169,How much was paid in real money after all the reductions applied?,23000.0
 train,receipt_00169,What is the cash amount?,50000.0
 train,receipt_00169,What is the amount of rounding applied?,0.0
-train,receipt_00169,How much was paid via non-cach means?,0.0
+train,receipt_00169,How much was paid via non-cash means?,0.0
 train,receipt_00170,How many goods in the 1st position can be bought for 76351?,4.0
 train,receipt_00170,How much should be paid for 1 product from the 1st position?,17000.0
 train,receipt_00170,What is the price of the 1st position in thousands?,34.0
@@ -12047,7 +12047,7 @@ train,receipt_00183,What is the change amount?,5000.0
 train,receipt_00183,What is the total amount of taxes to be paid?,1364.0
 train,receipt_00183,What is the ratio of change to cash?,0.25
 train,receipt_00183,How much cash was received?,20000.0
-train,receipt_00183,How much was paid via non-cach means?,0.0
+train,receipt_00183,How much was paid via non-cash means?,0.0
 train,receipt_00183,What share of the cash received was used for the payment?,0.75
 train,receipt_00184,How many positions are with price lower than or equal to 9000.0 in the receipt?,1.0
 train,receipt_00184,What is the position number of the smallest quantity of items?,2.0
@@ -12063,7 +12063,7 @@ train,receipt_00184,What is the ratio of change to cash?,0.58
 train,receipt_00184,What is the total amount paid?,42000.0
 train,receipt_00184,What share of the cash received was used for the payment?,0.42
 train,receipt_00184,What is the change amount?,58000.0
-train,receipt_00184,How much was paid via non-cach means?,0.0
+train,receipt_00184,How much was paid via non-cash means?,0.0
 train,receipt_00185,How many goods in the 1st position can be purchased for 143193?,2.0
 train,receipt_00185,How much should be paid for 2 items from the 1st position?,105454.0
 train,receipt_00185,How much in total was paid in taxes?,5273.0
@@ -12138,7 +12138,7 @@ train,receipt_00192,What is the total quantity of goods sold?,2.0
 train,receipt_00192,What is the price of the 1st position in thousands?,42.727
 train,receipt_00192,What is the position number of the largest quantity of items?,1.0
 train,receipt_00192,How much is the highest unit price?,42727.0
-train,receipt_00192,How much was paid via non-cach means?,0.0
+train,receipt_00192,How much was paid via non-cash means?,0.0
 train,receipt_00192,How much of the total amount due is discounted?,0.0
 train,receipt_00192,What share of the cash received was used for the payment?,1.0
 train,receipt_00192,What is the cash value?,56000.0
@@ -12176,7 +12176,7 @@ train,receipt_00195,How many zero prices are among the menu?,0.0
 train,receipt_00195,What is the total amount due?,31500.0
 train,receipt_00195,What is ratio of the amount due and the cash received?,0.6058
 train,receipt_00195,What is the cash amount?,52000.0
-train,receipt_00195,How much was paid via non-cach means?,0.0
+train,receipt_00195,How much was paid via non-cash means?,0.0
 train,receipt_00195,What is the quantity of the change?,20500.0
 train,receipt_00196,How many positions are with price lower than or equal to 23000.0 in the receipt?,1.0
 train,receipt_00196,What is the price of the 2nd position in thousands?,28.0
@@ -12517,7 +12517,7 @@ train,receipt_00225,How many goods in the 1st position can be bought for 1468?,0
 train,receipt_00225,What is the price of the 1st position in thousands?,17.0
 train,receipt_00225,How many goods were sold in total?,1.0
 train,receipt_00225,What is the total amount due?,17000.0
-train,receipt_00225,How much was paid via non-cach means?,17000.0
+train,receipt_00225,How much was paid via non-cash means?,17000.0
 train,receipt_00225,How much of the total amount due is discounted?,0.0
 train,receipt_00226,What is the position number of the maximum quantity of items?,4.0
 train,receipt_00226,What would be the price of the 2nd position if the quantity in that position were to change to 3?,69000.0
@@ -12577,7 +12577,7 @@ train,receipt_00231,What is the sum of prices in the first 8 positions?,92500.0
 train,receipt_00231,What is the minimum unit price in the receipt?,0.0
 train,receipt_00231,How many zero prices are among the menu?,6.0
 train,receipt_00231,What is the price of the 5th position in thousands?,0.0
-train,receipt_00231,How much was paid via non-cach means?,0.0
+train,receipt_00231,How much was paid via non-cash means?,0.0
 train,receipt_00231,What is the quantity of the change?,44500.0
 train,receipt_00231,What is ratio of the amount due and the cash received?,0.555
 train,receipt_00231,What is the cash amount?,100000.0
@@ -12616,7 +12616,7 @@ train,receipt_00234,How many goods were sold in total?,2.0
 train,receipt_00234,What is the mean price in the first 2 positions?,10500.0
 train,receipt_00234,What is the price of the 2nd position in thousands?,12.0
 train,receipt_00234,What is the minimum price of a position?,9000.0
-train,receipt_00234,How much was paid via non-cach means?,0.0
+train,receipt_00234,How much was paid via non-cash means?,0.0
 train,receipt_00234,What is the ratio of change to cash?,0.58
 train,receipt_00234,What is ratio of the amount due and the cash received?,0.42
 train,receipt_00234,What is the change amount?,29000.0
@@ -12631,7 +12631,7 @@ train,receipt_00235,What is the price of the 3rd position in thousands?,6.3
 train,receipt_00235,Which position has the lowest amount?,2.0
 train,receipt_00235,What would be the price of the 2nd position if the quantity in that position were to change to 4?,32000.0
 train,receipt_00235,What is the total amount paid?,43110.0
-train,receipt_00235,How much was paid via non-cach means?,43110.0
+train,receipt_00235,How much was paid via non-cash means?,43110.0
 train,receipt_00236,How many positions are in the receipt?,1.0
 train,receipt_00236,What is the total quantity of goods sold?,2.0
 train,receipt_00236,What is the price of the 1st position in thousands?,20.0
@@ -12673,7 +12673,7 @@ train,receipt_00239,What is the ratio of change to cash?,0.1125
 train,receipt_00239,What is ratio of the amount due and the cash received?,0.8875
 train,receipt_00239,What is the cash value?,200000.0
 train,receipt_00239,What is the change amount?,22500.0
-train,receipt_00239,How much was paid via non-cach means?,0.0
+train,receipt_00239,How much was paid via non-cash means?,0.0
 train,receipt_00239,How much was paid in real money after all the reductions applied?,177500.0
 train,receipt_00240,How many goods in the 1st position were purchased?,1.0
 train,receipt_00240,What is the total quantity of goods sold?,1.0
@@ -12776,7 +12776,7 @@ train,receipt_00251,What is the price of the 1st position in thousands?,17.727
 train,receipt_00251,How many goods were sold in total?,1.0
 train,receipt_00251,What is the quantity of products in the 1st position?,1.0
 train,receipt_00251,What is the total amount due?,19500.0
-train,receipt_00251,How much was paid via non-cach means?,0.0
+train,receipt_00251,How much was paid via non-cash means?,0.0
 train,receipt_00251,What is the quantity of the change?,80500.0
 train,receipt_00251,What is the ratio of change to cash?,0.805
 train,receipt_00251,What is the total amount of taxes to be paid?,1773.0
@@ -12913,7 +12913,7 @@ train,receipt_00263,What is the total number of positions?,2.0
 train,receipt_00263,How many goods in the 2nd position were purchased?,1.0
 train,receipt_00263,What is the price of the 2nd position in thousands?,28.182
 train,receipt_00263,Which position is the highest by quantity?,1.0
-train,receipt_00263,How much was paid via non-cach means?,60999.0
+train,receipt_00263,How much was paid via non-cash means?,60999.0
 train,receipt_00263,What is the total amount of taxes to be paid?,5545.0
 train,receipt_00263,How much was paid in real money after all the reductions applied?,60999.0
 train,receipt_00264,How many positions are free of charge?,0.0
@@ -13088,7 +13088,7 @@ train,receipt_00278,How much should be paid for 3 items from the 4th position?,9
 train,receipt_00278,What share of the cash received was used for the payment?,1.0
 train,receipt_00278,What is the ratio of change to cash?,0.0
 train,receipt_00278,What is the change amount?,0.0
-train,receipt_00278,How much was paid via non-cach means?,0.0
+train,receipt_00278,How much was paid via non-cash means?,0.0
 train,receipt_00278,How much was paid by cash?,45000.0
 train,receipt_00278,What is the total amount of taxes to be paid?,4090.0
 train,receipt_00278,What is the total amount due?,45000.0
@@ -13164,7 +13164,7 @@ train,receipt_00284,What is the highest price of a position?,89000.0
 train,receipt_00284,How much of the total amount due is discounted?,12700.0
 train,receipt_00284,How much was paid in real money after all the reductions applied?,137478.0
 train,receipt_00284,How much in total was paid in taxes?,13653.0
-train,receipt_00284,How much was paid via non-cach means?,137478.0
+train,receipt_00284,How much was paid via non-cash means?,137478.0
 train,receipt_00284,How much was charged for the service?,9525.0
 train,receipt_00285,What is the price of the 3rd position in thousands?,25.0
 train,receipt_00285,What is the total price of the first 2 positions?,50000.0
@@ -13180,7 +13180,7 @@ train,receipt_00285,What is the total amount due?,75000.0
 train,receipt_00285,What is ratio of the amount due and the cash received?,0.75
 train,receipt_00285,What is the ratio of change to cash?,0.25
 train,receipt_00285,What is the quantity of the change?,25000.0
-train,receipt_00285,How much was paid via non-cach means?,0.0
+train,receipt_00285,How much was paid via non-cash means?,0.0
 train,receipt_00285,How much cash was received?,100000.0
 train,receipt_00286,How many goods were sold in total?,1.0
 train,receipt_00286,How many goods in the 1st position were purchased?,1.0
@@ -13476,7 +13476,7 @@ train,receipt_00313,How many goods in the 1st position can be bought for 27060?,
 train,receipt_00313,How many goods are in the 1st position?,3.0
 train,receipt_00313,What would be the price of the 1st position if the quantity in that position were to change to 11?,154000.0
 train,receipt_00313,What is the total quantity of goods sold?,5.0
-train,receipt_00313,How much was paid via non-cach means?,70000.0
+train,receipt_00313,How much was paid via non-cash means?,70000.0
 train,receipt_00313,What is the total amount paid?,70000.0
 train,receipt_00314,What is the total quantity of goods sold?,2.0
 train,receipt_00314,How many goods in the 1st position were purchased?,2.0
@@ -13581,7 +13581,7 @@ train,receipt_00324,How many goods were sold in total?,1.0
 train,receipt_00324,How many positions does the receipt contain?,1.0
 train,receipt_00324,How many goods in the 1st position were purchased?,1.0
 train,receipt_00324,What is the total amount of taxes to be paid?,3563.64
-train,receipt_00324,How much was paid via non-cach means?,0.0
+train,receipt_00324,How much was paid via non-cash means?,0.0
 train,receipt_00324,What share of the cash received was used for the payment?,1.0
 train,receipt_00324,What share of cash was returned as change?,0.0
 train,receipt_00324,How much was paid in real money after all the reductions applied?,39200.0
@@ -13673,7 +13673,7 @@ train,receipt_00332,How much should be paid for 3 items from the 5th position?,3
 train,receipt_00332,How many positions are in the receipt?,5.0
 train,receipt_00332,What is the minimum price of a position?,5000.0
 train,receipt_00332,What is the total amount due?,60523.0
-train,receipt_00332,How much was paid via non-cach means?,60523.0
+train,receipt_00332,How much was paid via non-cash means?,60523.0
 train,receipt_00332,What is the total amount of discounts applied?,2396.0
 train,receipt_00334,Which position has the minimum amount?,2.0
 train,receipt_00334,What is the mean price of a position?,26969.6667
@@ -13695,7 +13695,7 @@ train,receipt_00335,How many goods in the 1st position can be bought for 203216?
 train,receipt_00335,What is the total quantity of goods sold?,7.0
 train,receipt_00335,What is the rounding value?,0.0
 train,receipt_00335,What is the total amount paid?,83000.0
-train,receipt_00335,How much was paid via non-cach means?,83000.0
+train,receipt_00335,How much was paid via non-cash means?,83000.0
 train,receipt_00336,How many goods in the 1st position can be purchased for 45522?,4.0
 train,receipt_00336,What is the price of the 2nd position in thousands?,25.0
 train,receipt_00336,How many positions are in the receipt?,2.0
@@ -13814,7 +13814,7 @@ train,receipt_00345,What would be the price of the 1st position if the quantity 
 train,receipt_00345,How much was paid by cash?,31000.0
 train,receipt_00345,What is ratio of the amount due and the cash received?,1.0
 train,receipt_00345,What share of cash was returned as change?,0.0
-train,receipt_00345,How much was paid via non-cach means?,0.0
+train,receipt_00345,How much was paid via non-cash means?,0.0
 train,receipt_00345,How much was charged for the service?,0.0
 train,receipt_00345,What is the quantity of the change?,0.0
 train,receipt_00345,What is the total amount paid?,31000.0
@@ -13849,13 +13849,13 @@ train,receipt_00347,How much in total was paid in taxes?,31605.0
 train,receipt_00347,How much is the service charge on top of the cost of goods?,22050.0
 train,receipt_00347,How much was paid in real money after all the reductions applied?,347655.0
 train,receipt_00347,How much of the total amount due is discounted?,0.0
-train,receipt_00347,How much was paid via non-cach means?,347655.0
+train,receipt_00347,How much was paid via non-cash means?,347655.0
 train,receipt_00348,How many goods in the 1st position can be purchased for 140815?,3.0
 train,receipt_00348,What would be the price of the 1st position if the quantity in that position were to change to 2?,90000.0
 train,receipt_00348,How many goods were sold in total?,1.0
 train,receipt_00348,What is the quantity of items in the 1st position?,1.0
 train,receipt_00348,What is the total amount paid?,45000.0
-train,receipt_00348,How much was paid via non-cach means?,45000.0
+train,receipt_00348,How much was paid via non-cash means?,45000.0
 train,receipt_00349,Which position has the maximum amount?,1.0
 train,receipt_00349,How much should be paid for 3 items from the 4th position?,255000.0
 train,receipt_00349,What is the average price in the first 3 positions?,141666.6667
@@ -13873,7 +13873,7 @@ train,receipt_00350,What is the total quantity of goods sold?,1.0
 train,receipt_00350,How much should be paid for 3 products from the 1st position?,87270.0
 train,receipt_00350,What is the price of the 1st position in thousands?,29.09
 train,receipt_00350,How many positions does the receipt contain?,1.0
-train,receipt_00350,How much was paid via non-cach means?,32000.0
+train,receipt_00350,How much was paid via non-cash means?,32000.0
 train,receipt_00350,How much was charged for the service?,0.0
 train,receipt_00350,What is the total amount paid?,32000.0
 train,receipt_00351,What is the maximum unit price in the receipt?,22727.0
@@ -14051,7 +14051,7 @@ train,receipt_00365,How many goods in the 5th position can be bought for 236248?
 train,receipt_00365,How many positions does the receipt contain?,6.0
 train,receipt_00365,How much was paid in real money after all the reductions applied?,441782.0
 train,receipt_00365,How much was charged for the service?,28020.0
-train,receipt_00365,How much was paid via non-cach means?,441782.0
+train,receipt_00365,How much was paid via non-cash means?,441782.0
 train,receipt_00365,How much in total was paid in taxes?,40162.0
 train,receipt_00366,What is the largest unit price in the receipt?,46364.0
 train,receipt_00366,Which position is the largest by quantity?,1.0
@@ -14074,7 +14074,7 @@ train,receipt_00367,How much should be paid for 4 products from the 3rd position
 train,receipt_00367,How many positions are with price lower than or equal to 16500.0 in the receipt?,4.0
 train,receipt_00367,What is the highest unit price?,21000.0
 train,receipt_00367,What is the total amount due?,80500.0
-train,receipt_00367,How much was paid via non-cach means?,80500.0
+train,receipt_00367,How much was paid via non-cash means?,80500.0
 train,receipt_00368,How many positions are in the receipt?,1.0
 train,receipt_00368,What is the total quantity of goods sold?,1.0
 train,receipt_00368,What is the price of the 1st position in thousands?,13.0
@@ -14180,7 +14180,7 @@ train,receipt_00375,How many positions are in the receipt?,4.0
 train,receipt_00375,What is the total quantity of goods sold?,9.0
 train,receipt_00375,How much in total was paid in taxes?,28700.0
 train,receipt_00375,What is the total amount due?,315700.0
-train,receipt_00375,How much was paid via non-cach means?,315700.0
+train,receipt_00375,How much was paid via non-cash means?,315700.0
 train,receipt_00376,What is the price of the 2nd position in thousands?,28.8
 train,receipt_00376,How many positions are free of charge?,0.0
 train,receipt_00376,What is the maximum unit price in the receipt?,47000.0
@@ -14222,7 +14222,7 @@ train,receipt_00379,What is the highest price of a position?,20000.0
 train,receipt_00379,What would be the price of the 1st position if the quantity in that position were to change to 3?,60000.0
 train,receipt_00379,How many goods are in the 1st position?,1.0
 train,receipt_00379,What is the average price in the first 2 positions?,20000.0
-train,receipt_00379,How much was paid via non-cach means?,80000.0
+train,receipt_00379,How much was paid via non-cash means?,80000.0
 train,receipt_00379,What is the total amount due?,80000.0
 train,receipt_00380,What is the mean price in the first 2 positions?,15000.0
 train,receipt_00380,How many positions are in the receipt?,2.0
@@ -14452,7 +14452,7 @@ train,receipt_00400,What is the greatest unit price?,31819.0
 train,receipt_00400,How many goods in the 4th position can be bought for 55192?,8.0
 train,receipt_00400,How many zero prices are among the menu?,0.0
 train,receipt_00400,What is the total amount due?,110000.0
-train,receipt_00400,How much was paid via non-cach means?,110000.0
+train,receipt_00400,How much was paid via non-cash means?,110000.0
 train,receipt_00400,How much in total was paid in taxes?,10000.0
 train,receipt_00401,How much is the least unit price?,7273.0
 train,receipt_00401,What is the price of the 1st position in thousands?,25.455
@@ -14503,7 +14503,7 @@ train,receipt_00404,Which position is the largest by quantity?,1.0
 train,receipt_00404,What is the total quantity of goods sold?,6.0
 train,receipt_00404,How many goods are in the 1st position?,1.0
 train,receipt_00404,How many zero prices are among the menu?,2.0
-train,receipt_00404,How much was paid via non-cach means?,49000.0
+train,receipt_00404,How much was paid via non-cash means?,49000.0
 train,receipt_00404,How much was paid in real money after all the reductions applied?,49000.0
 train,receipt_00405,How many positions were bought?,1.0
 train,receipt_00405,How many goods in the 1st position can be purchased for 323912?,2.0
@@ -14576,7 +14576,7 @@ train,receipt_00411,How much cash was received?,50000.0
 train,receipt_00411,What is the total amount due?,25000.0
 train,receipt_00411,What is ratio of the amount due and the cash received?,0.5
 train,receipt_00411,What is the quantity of the change?,25000.0
-train,receipt_00411,How much was paid via non-cach means?,0.0
+train,receipt_00411,How much was paid via non-cash means?,0.0
 train,receipt_00412,What would be the price of the 1st position if the quantity in that position were to change to 4?,52000.0
 train,receipt_00412,What is the price of the 1st position in thousands?,13.0
 train,receipt_00412,How much was paid by cash?,50000.0
@@ -14874,7 +14874,7 @@ train,receipt_00436,What is the price of the 1st position in thousands?,12.727
 train,receipt_00436,What is the mean price of a position?,30681.5
 train,receipt_00436,How much was paid in real money after all the reductions applied?,127500.0
 train,receipt_00436,What is the total amount of taxes to be paid?,11591.0
-train,receipt_00436,How much was paid via non-cach means?,127500.0
+train,receipt_00436,How much was paid via non-cash means?,127500.0
 train,receipt_00436,How much of the total amount due is discounted?,6818.0
 train,receipt_00437,How many positions are free of cost?,0.0
 train,receipt_00437,What is the price of the 2nd position in thousands?,1.5
@@ -14911,7 +14911,7 @@ train,receipt_00439,Which position is the largest by quantity?,3.0
 train,receipt_00439,What would be the price of the 4th position if the quantity in that position were to change to 2?,158000.0
 train,receipt_00439,What is the least unit price?,79000.0
 train,receipt_00439,What is the total discount?,129000.0
-train,receipt_00439,How much was paid via non-cach means?,1126510.0
+train,receipt_00439,How much was paid via non-cash means?,1126510.0
 train,receipt_00439,What is the total amount paid?,1126510.0
 train,receipt_00439,How much is the service charge on top of the cost of goods?,93100.0
 train,receipt_00439,What is the total amount of taxes to be paid?,102410.0
@@ -15180,7 +15180,7 @@ train,receipt_00464,What is the quantity of products in the 1st position?,1.0
 train,receipt_00464,What is ratio of the amount due and the cash received?,0.54
 train,receipt_00464,What is the ratio of change to cash?,0.46
 train,receipt_00464,What is the change amount?,46000.0
-train,receipt_00464,How much was paid via non-cach means?,0.0
+train,receipt_00464,How much was paid via non-cash means?,0.0
 train,receipt_00464,What is the total amount paid?,54000.0
 train,receipt_00464,How much was paid by cash?,100000.0
 train,receipt_00465,What is the price of the 3rd position in thousands?,11.0
@@ -15359,7 +15359,7 @@ train,receipt_00480,How many positions are in the receipt?,1.0
 train,receipt_00480,What share of the cash received was used for the payment?,0.29
 train,receipt_00480,How much was paid in real money after all the reductions applied?,29000.0
 train,receipt_00480,What is the cash amount?,100000.0
-train,receipt_00480,How much was paid via non-cach means?,0.0
+train,receipt_00480,How much was paid via non-cash means?,0.0
 train,receipt_00480,What is the change amount?,71000.0
 train,receipt_00480,What is the ratio of change to cash?,0.71
 train,receipt_00480,How much was charged for the service?,0.0
@@ -15426,7 +15426,7 @@ train,receipt_00486,What is the total number of positions?,1.0
 train,receipt_00486,How many goods were sold in total?,1.0
 train,receipt_00486,What is the ratio of change to cash?,0.0667
 train,receipt_00486,How much was charged for the service?,0.0
-train,receipt_00486,How much was paid via non-cach means?,0.0
+train,receipt_00486,How much was paid via non-cash means?,0.0
 train,receipt_00486,What share of the cash received was used for the payment?,0.9333
 train,receipt_00486,How much was paid by cash?,30000.0
 train,receipt_00486,What is the total amount paid?,28000.0
@@ -15675,7 +15675,7 @@ train,receipt_00508,How many positions were bought?,4.0
 train,receipt_00508,How much should be paid for 2 items from the 3rd position?,13000.0
 train,receipt_00508,How many goods in the 2nd position can be bought for 58548?,9.0
 train,receipt_00508,What is the position number of the smallest quantity of items?,1.0
-train,receipt_00508,How much was paid via non-cach means?,0.0
+train,receipt_00508,How much was paid via non-cash means?,0.0
 train,receipt_00508,What is the quantity of the change?,29000.0
 train,receipt_00508,What is ratio of the amount due and the cash received?,0.42
 train,receipt_00508,What is the cash amount?,50000.0
@@ -15686,7 +15686,7 @@ train,receipt_00509,What is the price of the 1st position in thousands?,49.09
 train,receipt_00509,What is the quantity of items in the 1st position?,1.0
 train,receipt_00509,How many positions are in the receipt?,1.0
 train,receipt_00509,What is the quantity of the change?,1.0
-train,receipt_00509,How much was paid via non-cach means?,0.0
+train,receipt_00509,How much was paid via non-cash means?,0.0
 train,receipt_00509,How much was paid by cash?,54000.0
 train,receipt_00509,What share of the cash received was used for the payment?,1.0
 train,receipt_00509,How much was paid in real money after all the reductions applied?,53999.0
@@ -15726,7 +15726,7 @@ train,receipt_00513,How many goods in the 1st position can be purchased for 2356
 train,receipt_00513,How much should be paid for 4 products from the 1st position?,134544.0
 train,receipt_00513,How many positions are in the receipt?,1.0
 train,receipt_00513,What is the total amount paid?,37000.0
-train,receipt_00513,How much was paid via non-cach means?,37000.0
+train,receipt_00513,How much was paid via non-cash means?,37000.0
 train,receipt_00513,What is the total amount of taxes to be paid?,3364.0
 train,receipt_00514,How many positions are free of charge?,0.0
 train,receipt_00514,How many positions are with price lower than or equal to 11000.0 in the receipt?,1.0
@@ -15778,7 +15778,7 @@ train,receipt_00517,How many positions are with price larger than or equal to 12
 train,receipt_00517,Which position has the highest amount?,2.0
 train,receipt_00517,How many goods in the 2nd position can be purchased for 296061?,32.0
 train,receipt_00517,What would be the price of the 3rd position if the quantity in that position were to change to 4?,48000.0
-train,receipt_00517,How much was paid via non-cach means?,87000.0
+train,receipt_00517,How much was paid via non-cash means?,87000.0
 train,receipt_00517,How much was paid in real money after all the reductions applied?,87000.0
 train,receipt_00518,What is the price of the 1st position in thousands?,49.0
 train,receipt_00518,How many positions were bought?,1.0
@@ -15919,7 +15919,7 @@ train,receipt_00531,How many positions were bought?,1.0
 train,receipt_00531,How many goods in the 1st position were purchased?,2.0
 train,receipt_00531,How many goods were sold in total?,2.0
 train,receipt_00531,How much cash was received?,60000.0
-train,receipt_00531,How much was paid via non-cach means?,0.0
+train,receipt_00531,How much was paid via non-cash means?,0.0
 train,receipt_00531,What is ratio of the amount due and the cash received?,1.0
 train,receipt_00531,How much was paid in real money after all the reductions applied?,60000.0
 train,receipt_00531,What share of cash was returned as change?,0.0
@@ -15967,7 +15967,7 @@ train,receipt_00535,What is the total amount paid?,14000.0
 train,receipt_00536,How much should be paid for 2 products from the 1st position?,82000.0
 train,receipt_00536,How many positions are in the receipt?,1.0
 train,receipt_00536,What is the price of the 1st position in thousands?,41.0
-train,receipt_00536,How much was paid via non-cach means?,41000.0
+train,receipt_00536,How much was paid via non-cash means?,41000.0
 train,receipt_00536,How much was paid in real money after all the reductions applied?,41000.0
 train,receipt_00537,What is the price of the 1st position in thousands?,20.0
 train,receipt_00537,How many goods in the 1st position can be purchased for 11052?,0.0
@@ -16051,7 +16051,7 @@ train,receipt_00543,What is the average price of a position?,10333.3333
 train,receipt_00543,How many goods were sold in total?,3.0
 train,receipt_00543,Which position has the minimum amount?,1.0
 train,receipt_00543,What is the total amount paid?,31000.0
-train,receipt_00543,How much was paid via non-cach means?,0.0
+train,receipt_00543,How much was paid via non-cash means?,0.0
 train,receipt_00543,What share of the cash received was used for the payment?,0.6078
 train,receipt_00543,How much cash was received?,51000.0
 train,receipt_00543,What share of cash was returned as change?,0.3922
@@ -16095,7 +16095,7 @@ train,receipt_00547,How many goods in the 2nd position can be bought for 142020?
 train,receipt_00547,How many goods were sold in total?,2.0
 train,receipt_00547,How many positions does the receipt contain?,2.0
 train,receipt_00547,How much was paid in real money after all the reductions applied?,39000.0
-train,receipt_00547,How much was paid via non-cach means?,39000.0
+train,receipt_00547,How much was paid via non-cash means?,39000.0
 train,receipt_00548,What is the lowest price of a position?,0.0
 train,receipt_00548,What is the total number of positions?,3.0
 train,receipt_00548,Which position is the highest by quantity?,2.0
@@ -16207,7 +16207,7 @@ train,receipt_00557,How much should be paid for 3 items from the 1st position?,5
 train,receipt_00557,What is the quantity of items in the 1st position?,1.0
 train,receipt_00557,What is the total quantity of goods sold?,1.0
 train,receipt_00557,What is the total amount paid?,190000.0
-train,receipt_00557,How much was paid via non-cach means?,190000.0
+train,receipt_00557,How much was paid via non-cash means?,190000.0
 train,receipt_00558,How many positions are in the receipt?,2.0
 train,receipt_00558,How many goods in the 2nd position can be purchased for 1278184?,7.0
 train,receipt_00558,What is the position number of the highest quantity of items?,1.0
@@ -16229,7 +16229,7 @@ train,receipt_00559,What is the ratio of change to cash?,0.0
 train,receipt_00559,What is ratio of the amount due and the cash received?,1.0
 train,receipt_00559,How much in total was paid in taxes?,2273.0
 train,receipt_00559,What is the cash value?,25000.0
-train,receipt_00559,How much was paid via non-cach means?,0.0
+train,receipt_00559,How much was paid via non-cash means?,0.0
 train,receipt_00560,Which position is the minimum by quantity?,1.0
 train,receipt_00560,How many positions are with price larger than or equal to 20000.0 in the receipt?,1.0
 train,receipt_00560,What is the highest price in the first 2 positions?,20000.0
@@ -16248,7 +16248,7 @@ train,receipt_00560,What is the quantity of the change?,48000.0
 train,receipt_00561,How many goods are in the 1st position?,2.0
 train,receipt_00561,What is the total quantity of goods sold?,2.0
 train,receipt_00561,What is the cash amount?,60000.0
-train,receipt_00561,How much was paid via non-cach means?,0.0
+train,receipt_00561,How much was paid via non-cash means?,0.0
 train,receipt_00561,What is the total amount due?,60000.0
 train,receipt_00561,What is ratio of the amount due and the cash received?,1.0
 train,receipt_00561,What is the quantity of the change?,0.0
@@ -16315,7 +16315,7 @@ train,receipt_00567,How many positions are with unit price lower than or equal t
 train,receipt_00567,What is the price of the 9th position in thousands?,9.0
 train,receipt_00567,How many positions are in the receipt?,12.0
 train,receipt_00567,How many goods in the 12th position were purchased?,1.0
-train,receipt_00567,How much was paid via non-cach means?,100100.0
+train,receipt_00567,How much was paid via non-cash means?,100100.0
 train,receipt_00567,What is the total amount of discounts applied?,42900.0
 train,receipt_00567,What is the total amount due?,100100.0
 train,receipt_00568,How many goods in the 1st position can be bought for 176585?,16.0
@@ -16557,7 +16557,7 @@ train,receipt_00587,How many positions are with unit price larger than 11000.0?,
 train,receipt_00587,What is the position number of the maximum quantity of items?,1.0
 train,receipt_00587,What is the price of the 1st position in thousands?,9.0
 train,receipt_00587,How many positions are free of cost?,0.0
-train,receipt_00587,How much was paid via non-cach means?,0.0
+train,receipt_00587,How much was paid via non-cash means?,0.0
 train,receipt_00587,What share of the cash received was used for the payment?,1.0
 train,receipt_00587,How much was paid by cash?,20000.0
 train,receipt_00587,How much was paid in real money after all the reductions applied?,20000.0
@@ -16596,7 +16596,7 @@ train,receipt_00590,What would be the price of the 1st position if the quantity 
 train,receipt_00590,What is the highest price of a position?,51000.0
 train,receipt_00590,What is the total price of the first 2 positions?,55000.0
 train,receipt_00590,What is the total amount paid?,55000.0
-train,receipt_00590,How much was paid via non-cach means?,55000.0
+train,receipt_00590,How much was paid via non-cash means?,55000.0
 train,receipt_00591,How many goods in the 1st position can be purchased for 82026?,2.0
 train,receipt_00591,How many goods are in the 1st position?,1.0
 train,receipt_00591,What is the total quantity of goods sold?,1.0
@@ -16621,7 +16621,7 @@ train,receipt_00592,What is the change amount?,45500.0
 train,receipt_00592,How much was paid by cash?,100000.0
 train,receipt_00592,How much in total was paid in taxes?,4955.0
 train,receipt_00592,What is ratio of the amount due and the cash received?,0.545
-train,receipt_00592,How much was paid via non-cach means?,0.0
+train,receipt_00592,How much was paid via non-cash means?,0.0
 train,receipt_00593,How much should be paid for 4 items from the 1st position?,96000.0
 train,receipt_00593,What is the total number of positions?,2.0
 train,receipt_00593,How many positions do contain zero price?,0.0
@@ -16959,12 +16959,12 @@ train,receipt_00619,What is the average price of a position?,26363.5
 train,receipt_00619,How many goods were sold in total?,2.0
 train,receipt_00619,What is the maximum price in the first 2 positions?,29091.0
 train,receipt_00619,How much was paid in real money after all the reductions applied?,58000.0
-train,receipt_00619,How much was paid via non-cach means?,58000.0
+train,receipt_00619,How much was paid via non-cash means?,58000.0
 train,receipt_00619,What is the total amount of taxes to be paid?,5273.0
 train,receipt_00620,How many positions are in the receipt?,1.0
 train,receipt_00620,How many goods in the 1st position can be bought for 6450?,1.0
 train,receipt_00620,How many goods were sold in total?,1.0
-train,receipt_00620,How much was paid via non-cach means?,6000.0
+train,receipt_00620,How much was paid via non-cash means?,6000.0
 train,receipt_00620,How much was paid in real money after all the reductions applied?,6000.0
 train,receipt_00621,How many positions were bought?,2.0
 train,receipt_00621,How many goods were sold in total?,3.0
@@ -17046,7 +17046,7 @@ train,receipt_00627,What is the price of the 1st position in thousands?,13.636
 train,receipt_00627,What is the cash value?,12750.0
 train,receipt_00627,What is the total amount of taxes to be paid?,1159.0
 train,receipt_00627,How much of the total amount due is discounted?,2045.0
-train,receipt_00627,How much was paid via non-cach means?,0.0
+train,receipt_00627,How much was paid via non-cash means?,0.0
 train,receipt_00627,What share of cash was returned as change?,0.0
 train,receipt_00627,What is the total amount paid?,12750.0
 train,receipt_00628,What is the quantity of items in the 1st position?,1.0
@@ -17120,7 +17120,7 @@ train,receipt_00634,How many goods were sold in total?,1.0
 train,receipt_00634,How much should be paid for 4 products from the 1st position?,168000.0
 train,receipt_00634,How many positions were bought?,1.0
 train,receipt_00634,How many goods in the 1st position can be purchased for 28586?,0.0
-train,receipt_00634,How much was paid via non-cach means?,42000.0
+train,receipt_00634,How much was paid via non-cash means?,42000.0
 train,receipt_00634,What is the total amount paid?,42000.0
 train,receipt_00635,What is the price of the 6th position in thousands?,15.0
 train,receipt_00635,How many goods were sold in total?,9.0
@@ -17200,7 +17200,7 @@ train,receipt_00642,How many positions are in the receipt?,1.0
 train,receipt_00642,What is the total quantity of goods sold?,5.0
 train,receipt_00642,What is the quantity of items in the 1st position?,5.0
 train,receipt_00642,How much was paid in real money after all the reductions applied?,90000.0
-train,receipt_00642,How much was paid via non-cach means?,90000.0
+train,receipt_00642,How much was paid via non-cash means?,90000.0
 train,receipt_00643,What is the lowest unit price?,0.0
 train,receipt_00643,What is the sum of prices in the first 2 positions?,22000.0
 train,receipt_00643,What is the mean price of a position?,11000.0
@@ -17248,7 +17248,7 @@ train,receipt_00647,How many goods in the 3rd position can be bought for 416700?
 train,receipt_00647,How many positions are free of cost?,1.0
 train,receipt_00647,What is the quantity of items in the 3rd position?,1.0
 train,receipt_00647,How much was paid in real money after all the reductions applied?,118000.0
-train,receipt_00647,How much was paid via non-cach means?,118000.0
+train,receipt_00647,How much was paid via non-cash means?,118000.0
 train,receipt_00648,How many positions were bought?,1.0
 train,receipt_00648,What is the total quantity of goods sold?,1.0
 train,receipt_00648,How much should be paid for 4 items from the 1st position?,38000.0
@@ -17267,7 +17267,7 @@ train,receipt_00649,How many goods in the 4th position were purchased?,1.0
 train,receipt_00649,What is the maximum unit price?,49091.0
 train,receipt_00649,How many positions are with unit price larger than 10909.0?,2.0
 train,receipt_00649,What is the maximum price of a position?,49091.0
-train,receipt_00649,How much was paid via non-cach means?,90000.0
+train,receipt_00649,How much was paid via non-cash means?,90000.0
 train,receipt_00649,What is the total amount of taxes to be paid?,8182.0
 train,receipt_00649,What is the total amount due?,90000.0
 train,receipt_00650,How many positions does the receipt contain?,2.0
@@ -17429,7 +17429,7 @@ train,receipt_00665,What is the price of the 1st position in thousands?,770.0
 train,receipt_00665,What is the total quantity of goods sold?,2.0
 train,receipt_00665,How many goods in the 1st position can be purchased for 292452?,0.0
 train,receipt_00665,How many positions does the receipt contain?,1.0
-train,receipt_00665,How much was paid via non-cach means?,0.0
+train,receipt_00665,How much was paid via non-cash means?,0.0
 train,receipt_00665,What is the ratio of change to cash?,0.0
 train,receipt_00665,What is the cash amount?,770000.0
 train,receipt_00665,How much was charged for the service?,0.0
@@ -17924,7 +17924,7 @@ train,receipt_00709,How many positions does the receipt contain?,12.0
 train,receipt_00709,What is the position number of the largest quantity of items?,1.0
 train,receipt_00709,How much should be paid for 2 products from the 6th position?,270000.0
 train,receipt_00709,What is the total amount due?,1579190.0
-train,receipt_00709,How much was paid via non-cach means?,1579190.0
+train,receipt_00709,How much was paid via non-cash means?,1579190.0
 train,receipt_00709,How much is the service charge on top of the cost of goods?,94290.0
 train,receipt_00710,What is the quantity of items in the 2nd position?,1.0
 train,receipt_00710,What is the position number of the minimum quantity of items?,1.0
@@ -18064,7 +18064,7 @@ train,receipt_00724,What is the total number of positions?,1.0
 train,receipt_00724,What would be the price of the 1st position if the quantity in that position were to change to 4?,87272.0
 train,receipt_00724,How many goods in the 1st position can be bought for 25334?,1.0
 train,receipt_00724,What is the quantity of items in the 1st position?,1.0
-train,receipt_00724,How much was paid via non-cach means?,24000.0
+train,receipt_00724,How much was paid via non-cash means?,24000.0
 train,receipt_00724,How much in total was paid in taxes?,2182.0
 train,receipt_00724,How much was paid in real money after all the reductions applied?,24000.0
 train,receipt_00725,How much should be paid for 7 items from the 1st position?,84000.0
@@ -18346,7 +18346,7 @@ train,receipt_00750,How many goods in the 5th position can be bought for 533569?
 train,receipt_00750,What is the price of the 15th position in thousands?,26.8
 train,receipt_00750,What is the total amount paid?,583968.0
 train,receipt_00750,What is the total amount of discounts applied?,100000.0
-train,receipt_00750,How much was paid via non-cach means?,583968.0
+train,receipt_00750,How much was paid via non-cash means?,583968.0
 train,receipt_00750,How much was charged for the service?,25280.0
 train,receipt_00750,How much in total was paid in taxes?,53088.0
 train,receipt_00751,What is the total quantity of goods sold?,6.0
@@ -18471,7 +18471,7 @@ train,receipt_00760,What is the price of the 1st position in thousands?,13.0
 train,receipt_00760,What share of cash was returned as change?,0.44
 train,receipt_00760,How much was paid in real money after all the reductions applied?,28000.0
 train,receipt_00760,What is the quantity of the change?,22000.0
-train,receipt_00760,How much was paid via non-cach means?,0.0
+train,receipt_00760,How much was paid via non-cash means?,0.0
 train,receipt_00760,What is ratio of the amount due and the cash received?,0.56
 train,receipt_00760,How much was paid by cash?,50000.0
 train,receipt_00761,How many positions are in the receipt?,2.0
@@ -18495,7 +18495,7 @@ train,receipt_00762,How much was charged for the service?,0.0
 train,receipt_00762,What is the quantity of the change?,32001.0
 train,receipt_00762,How much was paid in real money after all the reductions applied?,17999.0
 train,receipt_00762,What share of the cash received was used for the payment?,0.36
-train,receipt_00762,How much was paid via non-cach means?,0.0
+train,receipt_00762,How much was paid via non-cash means?,0.0
 train,receipt_00762,What share of cash was returned as change?,0.64
 train,receipt_00762,What is the cash value?,50000.0
 train,receipt_00763,How many goods in the 1st position can be bought for 719614?,1.0
@@ -18633,7 +18633,7 @@ train,receipt_00774,Which position has the highest amount?,1.0
 train,receipt_00774,How much is the service charge on top of the cost of goods?,7500.0
 train,receipt_00774,What is the total amount due?,172500.0
 train,receipt_00774,What is the total amount of taxes to be paid?,15000.0
-train,receipt_00774,How much was paid via non-cach means?,172500.0
+train,receipt_00774,How much was paid via non-cash means?,172500.0
 train,receipt_00775,How many goods were sold in total?,1.0
 train,receipt_00775,How many goods are in the 1st position?,1.0
 train,receipt_00775,What is the total amount of taxes to be paid?,2091.0
@@ -18649,7 +18649,7 @@ train,receipt_00776,What is the highest price of a position?,32727.0
 train,receipt_00776,How many positions are with unit price larger than or equal to 19091.0?,2.0
 train,receipt_00776,How many goods were sold in total?,3.0
 train,receipt_00776,What is the price of the 3rd position in thousands?,9.091
-train,receipt_00776,How much was paid via non-cach means?,0.0
+train,receipt_00776,How much was paid via non-cash means?,0.0
 train,receipt_00776,What is the cash amount?,67000.0
 train,receipt_00776,What is the total amount due?,67000.0
 train,receipt_00776,What is ratio of the amount due and the cash received?,1.0
